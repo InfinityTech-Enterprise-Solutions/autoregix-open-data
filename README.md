@@ -1,5 +1,7 @@
 # EU compliance deadlines and EU product recall statistics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24538493.svg)](https://doi.org/10.5281/zenodo.24538493)
+
 Open data from [Autoregix](https://autoregix.com), a free reference site on the EU rules that businesses have to meet.
 
 This repository is a weekly copy of the files published on the site. The live files are the source; use them if you need the latest state.
@@ -53,6 +55,12 @@ The compilation is licensed under [Creative Commons Attribution 4.0](LICENSE) (C
 > Source: Autoregix, https://autoregix.com
 
 The recall statistics are compiled from Safety Gate reports of the European Commission. If you use them, name Safety Gate as the original source as well.
+
+## How to cite
+
+Autoregix. EU compliance deadlines and EU product recall statistics. Zenodo. https://doi.org/10.5281/zenodo.24538493
+
+That DOI always points to the latest archived version. Each release also has its own DOI on the Zenodo page, for citing one exact snapshot.
 
 ## Accuracy
 
