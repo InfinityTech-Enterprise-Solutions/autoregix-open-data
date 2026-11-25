@@ -1,0 +1,14 @@
+{
+  "title": "EU compliance deadlines and EU product recall statistics",
+  "upload_type": "dataset",
+  "description": "<p>Open data from <a href=\"https://autoregix.com\">Autoregix</a>, a free reference site on the EU rules that businesses have to meet.</p><p><strong>EU compliance deadlines:</strong> about 160 dates on which EU rules for businesses start to apply (product rules, customs, VAT, data protection, the AI Act, sustainability reporting, cybersecurity, employment and platform law). Each entry has a date, a status (as adopted, postponed, change proposed, not yet law), a topic, the act, its CELEX number, a link to the legal text on EUR-Lex and a short description in English and German. Formats: CSV, JSON, iCalendar.</p><p><strong>EU product recall statistics:</strong> counts of alerts in Safety Gate, the EU rapid alert system for dangerous non-food products, over the last 52 weeks: per week and month, per product category with its main risks, per country of origin, per notifying country and per law breached. Format: JSON.</p><p>This record is a snapshot. The live files are refreshed weekly at <a href=\"https://autoregix.com/en/open-data/\">autoregix.com/en/open-data</a>. The recall statistics are compiled from Safety Gate reports of the European Commission; name Safety Gate as the original source as well. The deadlines were checked against the legal texts and are information, not legal advice.</p>",
+  "creators": [{ "name": "Autoregix" }],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["European Union", "regulation", "compliance", "deadlines", "EUR-Lex", "CELEX", "product safety", "Safety Gate", "recalls", "open data"],
+  "related_identifiers": [
+    { "identifier": "https://autoregix.com/en/open-data/", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "https://www.kaggle.com/datasets/autoregix/eu-compliance-deadlines-and-recall-statistics", "relation": "isIdenticalTo", "scheme": "url" }
+  ]
+}
