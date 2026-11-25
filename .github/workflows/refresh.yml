@@ -1,0 +1,39 @@
+name: Refresh data
+
+# Copies the live files from autoregix.com once a week, after the site's own weekly update.
+on:
+  schedule:
+    - cron: '30 7 * * 6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the live files
+        run: |
+          set -euo pipefail
+          fetch() { curl --fail --silent --show-error --location --retry 3 -o "$2" "https://autoregix.com/$1"; }
+          fetch data/deadlines.csv data/deadlines.csv
+          fetch data/deadlines.json data/deadlines.json
+          fetch data/recalls.json data/recalls.json
+          fetch en/deadlines/calendar.ics data/deadlines-en.ics
+          fetch de/fristen/calendar.ics data/deadlines-de.ics
+          python3 -c "import json; json.load(open('data/deadlines.json')); json.load(open('data/recalls.json'))"
+      - name: Commit if anything changed
+        run: |
+          # The files carry a build date, so ignore changes that are only that line.
+          if git diff --quiet -I'"generated"' -I'^DTSTAMP' -- data; then
+            echo "No change in the data."
+            git checkout -- data
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Refresh data from autoregix.com"
+          git push

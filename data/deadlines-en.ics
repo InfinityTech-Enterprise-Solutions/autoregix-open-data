@@ -1,0 +1,1832 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Autoregix//EU compliance deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EU compliance deadlines
+X-WR-CALDESC:Dates on which EU rules start to apply\, in order\, with postp
+ onements marked and a link to each legal text. Filter by topic.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:gdpr-2025-12-19-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:General Data Protection Regulation (EU) 2016/679: The Commission re
+ newed the UK adequacy decisions\, valid until 27 December 2031.
+DESCRIPTION:The Commission renewed the UK adequacy decisions\, valid until 
+ 27 December 2031.\n\nBusinesses transferring personal data from the EU to 
+ the UK\n\nhttps://autoregix.com/en/deadlines/#gdpr-2025-12-19-0
+URL:https://autoregix.com/en/deadlines/#gdpr-2025-12-19-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:craProducts-2025-12-21-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:Important and critical product categories\, Implementing Regulation
+  (EU) 2025/2392: Implementing Regulation (EU) 2025/2392 entered into forc
+ …
+DESCRIPTION:Implementing Regulation (EU) 2025/2392 entered into force\, wit
+ h the technical descriptions of important (Annex III) and critical (Annex 
+ IV) product categories under the Cyber Resilience Act.\n\nManufacturers of
+  products such as browsers\, password managers\, routers\, operating syste
+ ms\, firewalls and smart cards\n\nPublished 1 December 2025; in force on t
+ he twentieth day after publication.\n\nhttps://autoregix.com/en/deadlines/
+ #craProducts-2025-12-21-0
+URL:https://autoregix.com/en/deadlines/#craProducts-2025-12-21-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2026-01-01-5-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:CBAM Regulation (EU) 2023/956: Definitive period starts: only autho
+ rised CBAM declarants may import CBAM goods above the new 50 tonnes per…
+DESCRIPTION:Definitive period starts: only authorised CBAM declarants may i
+ mport CBAM goods above the new 50 tonnes per year mass threshold.\n\nImpor
+ ters of iron\, steel\, aluminium\, cement\, fertilisers (hydrogen and elec
+ tricity have no threshold)\n\nThe 50 t de minimis replaces the former EUR 
+ 150 consignment rule (Regulation (EU) 2025/2083).\n\nhttps://autoregix.com
+ /en/deadlines/#cbam-2026-01-01-5
+URL:https://autoregix.com/en/deadlines/#cbam-2026-01-01-5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cprnew-2026-01-08-7-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Construction Products Regulation (EU) 2024/3110: Main application d
+ ate of the new CPR.
+DESCRIPTION:Main application date of the new CPR.\n\nManufacturers\, import
+ ers\, distributors of construction products\n\nOperator obligations bite p
+ er product family only one year after a new harmonised specification is ma
+ de mandatory; Regulation (EU) No 305/2011 runs in parallel until then.\n\n
+ https://autoregix.com/en/deadlines/#cprnew-2026-01-08-7
+URL:https://autoregix.com/en/deadlines/#cprnew-2026-01-08-7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2026-03-31-9-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:CBAM Regulation (EU) 2023/956: Deadline to apply for authorised dec
+ larant status in order to keep importing provisionally while the applica
+ …
+DESCRIPTION:Deadline to apply for authorised declarant status in order to k
+ eep importing provisionally while the application is pending.\n\nImporters
+  and indirect customs representatives above 50 t\n\nhttps://autoregix.com/
+ en/deadlines/#cbam-2026-03-31-9
+URL:https://autoregix.com/en/deadlines/#cbam-2026-03-31-9
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2026-04-10-10-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Regulation (EU) 2024/2462 (PFHxA): PFHxA ban in firefighting foams 
+ and concentrates for training and testing\, and for public fire services
+ …
+DESCRIPTION:PFHxA ban in firefighting foams and concentrates for training a
+ nd testing\, and for public fire services (with Seveso-site exception).\n\
+ nSuppliers and users of firefighting foams\n\nLimits: 25 ppb PFHxA and sal
+ ts\, 1000 ppb related substances.\n\nhttps://autoregix.com/en/deadlines/#p
+ fhxa-2026-04-10-10
+URL:https://autoregix.com/en/deadlines/#pfhxa-2026-04-10-10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:red-2026-04-28-11-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Radio Equipment Directive 2014/53/EU: USB-C common charger and unbu
+ ndling rules extend to laptops.
+DESCRIPTION:USB-C common charger and unbundling rules extend to laptops.\n\
+ nManufacturers\, importers\, distributors of laptops\n\nPhones\, tablets\,
+  cameras\, headphones and the other listed categories have been covered si
+ nce 28 December 2024.\n\nhttps://autoregix.com/en/deadlines/#red-2026-04-2
+ 8-11
+URL:https://autoregix.com/en/deadlines/#red-2026-04-28-11
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dma-2026-04-28-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Digital Markets Act\, Regulation (EU) 2022/1925: The Commission pub
+ lished the first review of the Digital Markets Act (COM(2026) 178). It pr
+ …
+DESCRIPTION:The Commission published the first review of the Digital Market
+ s Act (COM(2026) 178). It proposed no change to the law.\n\nGatekeepers an
+ d their business users.\n\nNext review is due three years later under Arti
+ cle 53.\n\nhttps://autoregix.com/en/deadlines/#dma-2026-04-28-0
+URL:https://autoregix.com/en/deadlines/#dma-2026-04-28-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mercosurInterim-2026-05-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:EU-Mercosur Interim Trade Agreement\, Council Decision (EU) 2026/18
+ 3: The EU-Mercosur Interim Trade Agreement applies provisionally.
+DESCRIPTION:The EU-Mercosur Interim Trade Agreement applies provisionally.\
+ n\nExporters and importers trading with Argentina\, Brazil\, Paraguay and 
+ Uruguay\n\nNot formally in force. Court of Justice opinion procedure 1/26 
+ and Case C-460/26 are pending; Parliament has not voted on consent.\n\nhtt
+ ps://autoregix.com/en/deadlines/#mercosurInterim-2026-05-01-0
+URL:https://autoregix.com/en/deadlines/#mercosurInterim-2026-05-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:talentPool-2026-06-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:EU Talent Pool Regulation (EU) 2026/1047: The EU Talent Pool Regula
+ tion entered into force.
+DESCRIPTION:The EU Talent Pool Regulation entered into force.\n\nJobseekers
+  outside the EU and employers in participating EU countries\n\nParticipati
+ on of countries is voluntary. EURES states the platform will be fully oper
+ ational by 2027.\n\nhttps://autoregix.com/en/deadlines/#talentPool-2026-06
+ -01-0
+URL:https://autoregix.com/en/deadlines/#talentPool-2026-06-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:payTransparency-2026-06-07-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Pay Transparency Directive (EU) 2023/970: Deadline for EU countries
+  to put the Pay Transparency Directive into national law.
+DESCRIPTION:Deadline for EU countries to put the Pay Transparency Directive
+  into national law.\n\nAll employers in the EU\n\nMost countries missed th
+ e deadline. The date was not postponed. Start dates depend on national law
+ .\n\nhttps://autoregix.com/en/deadlines/#payTransparency-2026-06-07-0
+URL:https://autoregix.com/en/deadlines/#payTransparency-2026-06-07-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2026-06-11-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Cyber Resilience Act (EU) 2024/2847: The Cyber Resilience Act rules
+  on notification of conformity assessment bodies (Chapter IV) apply.
+DESCRIPTION:The Cyber Resilience Act rules on notification of conformity as
+ sessment bodies (Chapter IV) apply.\n\nEU countries and conformity assessm
+ ent bodies\n\nhttps://autoregix.com/en/deadlines/#cra-2026-06-11-0
+URL:https://autoregix.com/en/deadlines/#cra-2026-06-11-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:consumerRights-2026-06-19-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Consumer Rights Directive 2011/83/EU: EU countries must apply the o
+ nline withdrawal function: contracts concluded online need a function la
+ …
+DESCRIPTION:EU countries must apply the online withdrawal function: contrac
+ ts concluded online need a function labelled 'withdraw from contract here'
+  or a clear equivalent.\n\nTraders that conclude distance contracts with c
+ onsumers through a website or app.\n\nArticle 11a\, inserted by Directive 
+ (EU) 2023/2673.\n\nhttps://autoregix.com/en/deadlines/#consumerRights-2026
+ -06-19-0
+URL:https://autoregix.com/en/deadlines/#consumerRights-2026-06-19-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:parcels-2026-07-01-13-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Regulation (EU) 2026/382 (customs duty on low-value parcels): The E
+ UR 150 customs duty exemption ends; a flat EUR 3 duty per item applies t
+ …
+DESCRIPTION:The EUR 150 customs duty exemption ends; a flat EUR 3 duty per 
+ item applies to consignments up to EUR 150 sold to consumers\, with or wit
+ hout IOSS\, until 1 July 2028.\n\nNon-EU sellers and marketplaces shipping
+  direct to EU consumers; IOSS intermediaries\n\nAdopted on 11 February 202
+ 6. An item is all goods in the consignment with the same tariff classifica
+ tion\, description and origin: five T-shirts are one item.\n\nhttps://auto
+ regix.com/en/deadlines/#parcels-2026-07-01-13
+URL:https://autoregix.com/en/deadlines/#parcels-2026-07-01-13
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usTariffAdjustment-2026-07-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Duties and tariff quotas for US goods\, Regulation (EU) 2026/1455: 
+ The EU applies 0% duty to the US-origin goods listed in Annex I and opens
+ …
+DESCRIPTION:The EU applies 0% duty to the US-origin goods listed in Annex I
+  and opens tariff quotas for listed US farm and fishery goods\, until 31 D
+ ecember 2029.\n\nEU importers of goods originating in the United States\n\
+ nThe Commission can suspend the cuts (Article 3).\n\nhttps://autoregix.com
+ /en/deadlines/#usTariffAdjustment-2026-07-01-0
+URL:https://autoregix.com/en/deadlines/#usTariffAdjustment-2026-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:steelMeasure-2026-07-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Steel tariff quotas\, Regulation (EU) 2026/1384: Steel tariff quota
+ s replace the former safeguard; steel imported outside the quotas pays 50
+ …
+DESCRIPTION:Steel tariff quotas replace the former safeguard; steel importe
+ d outside the quotas pays 50% duty.\n\nImporters of the steel product cate
+ gories in Annex I\, from all countries except Iceland\, Liechtenstein and 
+ Norway\n\nImporters must prove the country of melt and pour (Article 4).\n
+ \nhttps://autoregix.com/en/deadlines/#steelMeasure-2026-07-01-0
+URL:https://autoregix.com/en/deadlines/#steelMeasure-2026-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espr-2026-07-19-14-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Ecodesign for Sustainable Products Regulation (EU) 2024/1781: Ban o
+ n destroying unsold apparel\, clothing accessories and footwear (Annex VI
+ …
+DESCRIPTION:Ban on destroying unsold apparel\, clothing accessories and foo
+ twear (Annex VII) applies to large enterprises; derogations set by Delegat
+ ed Regulation (EU) 2026/296.\n\nLarge enterprises (micro and small are exe
+ mpt)\n\nhttps://autoregix.com/en/deadlines/#espr-2026-07-19-14
+URL:https://autoregix.com/en/deadlines/#espr-2026-07-19-14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espr-2026-07-19-15-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Ecodesign for Sustainable Products Regulation (EU) 2024/1781: The C
+ ommission sets up the digital product passport registry. A test environm
+ …
+DESCRIPTION:The Commission sets up the digital product passport registry. A
+  test environment went live on 20 July 2026.\n\nCommission; later all oper
+ ators of products with a DPP\, first batteries\n\nhttps://autoregix.com/en
+ /deadlines/#espr-2026-07-19-15
+URL:https://autoregix.com/en/deadlines/#espr-2026-07-19-15
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bpa-2026-07-20-16-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Regulation (EU) 2024/3190 (bisphenol A): Main transition period end
+ ed: most food contact articles made with BPA and other hazardous bisphen
+ …
+DESCRIPTION:Main transition period ended: most food contact articles made w
+ ith BPA and other hazardous bisphenols may no longer be first placed on th
+ e market.\n\nMakers and importers of coated cans\, packaging\, kitchenware
+ \, food equipment\n\nLonger transition periods exist for some uses and for
+  reusable articles already on the market.\n\nhttps://autoregix.com/en/dead
+ lines/#bpa-2026-07-20-16
+URL:https://autoregix.com/en/deadlines/#bpa-2026-07-20-16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2026-07-27-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Regulation (EU) 2026/1744 (Digital Omnibus on AI): Regulation (EU) 
+ 2026/1744 enters into force: high-risk rules postponed\, Article 4 reword
+ …
+DESCRIPTION:Regulation (EU) 2026/1744 enters into force: high-risk rules po
+ stponed\, Article 4 reworded\, new Article 4a on bias data\, relief extend
+ ed to small mid-caps.\n\nAll operators under the AI Act\n\nPublished in th
+ e Official Journal on 24 July 2026.\n\nhttps://autoregix.com/en/deadlines/
+ #aiOmnibus-2026-07-27-0
+URL:https://autoregix.com/en/deadlines/#aiOmnibus-2026-07-27-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:r2r-2026-07-31-17-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Right to Repair Directive (EU) 2024/1799: Transposition deadline an
+ d start of application: repair obligation for listed goods\, repair infor
+ …
+DESCRIPTION:Transposition deadline and start of application: repair obligat
+ ion for listed goods\, repair information form\, 12-month guarantee extens
+ ion after repair.\n\nManufacturers of goods in Annex II\, sellers\, repair
+ ers\n\nDelegated Directive (EU) 2026/74 added domestic local space heaters
+  to Annex II with the same date.\n\nhttps://autoregix.com/en/deadlines/#r2
+ r-2026-07-31-17
+URL:https://autoregix.com/en/deadlines/#r2r-2026-07-31-17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiAct-2026-08-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:AI Act (EU) 2024/1689: General application date: Article 50 transpa
+ rency duties apply and the AI Office can enforce the rules for general-p
+ …
+DESCRIPTION:General application date: Article 50 transparency duties apply 
+ and the AI Office can enforce the rules for general-purpose AI models.\n\n
+ Providers of chatbots and generative AI; deployers of deepfakes\, emotion 
+ recognition and public-interest AI text; model providers\n\nThe high-risk 
+ rules originally due on this date were postponed.\n\nhttps://autoregix.com
+ /en/deadlines/#aiAct-2026-08-02-0
+URL:https://autoregix.com/en/deadlines/#aiAct-2026-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usRebalancingSuspension-2026-08-07-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Suspension of countermeasures on US goods\, Implementing Regulation
+  (EU) 2026/1893: The EU countermeasures on US goods stay suspended\, with
+ … [Postponed]
+DESCRIPTION:The EU countermeasures on US goods stay suspended\, with no end
+  date.\n\nEU importers of the US goods listed in Implementing Regulation (
+ EU) 2025/1564\n\nThe Commission says it can reactivate them.\n\nhttps://au
+ toregix.com/en/deadlines/#usRebalancingSuspension-2026-08-07-0
+URL:https://autoregix.com/en/deadlines/#usRebalancingSuspension-2026-08-07-
+ 0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-18-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: General appl
+ ication of the PPWR; Directive 94/62/EC repealed (some provisions surviv
+ …
+DESCRIPTION:General application of the PPWR; Directive 94/62/EC repealed (s
+ ome provisions survive until 2028/2029).\n\nManufacturers\, importers\, di
+ stributors\, fulfilment providers\, producers of packaging\n\nNot postpone
+ d. Changes proposed in the environmental omnibus of December 2025 are not 
+ adopted.\n\nhttps://autoregix.com/en/deadlines/#ppwr-2026-08-12-18
+URL:https://autoregix.com/en/deadlines/#ppwr-2026-08-12-18
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-19-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: PFAS limits 
+ for food-contact packaging apply (Art. 5(5)): 25 ppb per targeted PFAS\,
+ …
+DESCRIPTION:PFAS limits for food-contact packaging apply (Art. 5(5)): 25 pp
+ b per targeted PFAS\, 250 ppb sum\, 50 ppm total PFAS.\n\nAnyone placing f
+ ood-contact packaging on the EU market\n\nLead\, cadmium\, mercury\, hexav
+ alent chromium sum limit of 100 mg/kg (Art. 5(4)) applies from the same da
+ te.\n\nhttps://autoregix.com/en/deadlines/#ppwr-2026-08-12-19
+URL:https://autoregix.com/en/deadlines/#ppwr-2026-08-12-19
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-20-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Manufacturer
+ s must run conformity assessment\, keep technical documentation and draw
+ …
+DESCRIPTION:Manufacturers must run conformity assessment\, keep technical d
+ ocumentation and draw up an EU declaration of conformity (Art. 15\, 38\, 3
+ 9\, Annex VII/VIII).\n\nPackaging manufacturers; importers and distributor
+ s must verify\n\nThe declaration covers Articles 5 to 12 only as far as ea
+ ch requirement already applies; secondary acts for several requirements ar
+ e still missing.\n\nhttps://autoregix.com/en/deadlines/#ppwr-2026-08-12-20
+URL:https://autoregix.com/en/deadlines/#ppwr-2026-08-12-20
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-21-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Producer reg
+ istration\, EPR and authorised representative rules (Art. 44\, 45) apply;
+ … [Change proposed]
+DESCRIPTION:Producer registration\, EPR and authorised representative rules
+  (Art. 44\, 45) apply; producers register in each Member State where they 
+ first make packaging available.\n\nProducers\, including distance sellers 
+ into other Member States; online platforms\n\nThe act on the register form
+ at was still a draft in August 2026\, and national registers are due 18 mo
+ nths after it enters into force. A proposal to suspend the authorised repr
+ esentative duty until 2035 is not adopted.\n\nhttps://autoregix.com/en/dea
+ dlines/#ppwr-2026-08-12-21
+URL:https://autoregix.com/en/deadlines/#ppwr-2026-08-12-21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2026-08-18-22-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Batteries Regulation (EU) 2023/1542: General information\, capacity
+  and duration labels (Art. 13(1)-(3)); legal date is 18 Aug 2026 or 18 mo
+ … [Postponed]
+DESCRIPTION:General information\, capacity and duration labels (Art. 13(1)-
+ (3)); legal date is 18 Aug 2026 or 18 months after the labelling implement
+ ing act enters into force\, whichever is later.\n\nManufacturers and impor
+ ters of all batteries\n\nThe implementing act was due on 18 August 2025 an
+ d had not been published when this was checked\, so the labels start about
+  18 months after it is published.\n\nhttps://autoregix.com/en/deadlines/#b
+ atteries-2026-08-18-22
+URL:https://autoregix.com/en/deadlines/#batteries-2026-08-18-22
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2026-09-11-23-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Cyber Resilience Act (EU) 2024/2847: Manufacturers must report acti
+ vely exploited vulnerabilities and severe incidents via the single repor
+ …
+DESCRIPTION:Manufacturers must report actively exploited vulnerabilities an
+ d severe incidents via the single reporting platform (Art. 14)\, also for 
+ products already on the market.\n\nManufacturers of products with digital 
+ elements\n\nNot postponed.\n\nhttps://autoregix.com/en/deadlines/#cra-2026
+ -09-11-23
+URL:https://autoregix.com/en/deadlines/#cra-2026-09-11-23
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dataAct-2026-09-12-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Data Act\, Regulation (EU) 2023/2854: Connected products and relate
+ d services placed on the market after this date must make product data di
+ …
+DESCRIPTION:Connected products and related services placed on the market af
+ ter this date must make product data directly accessible to the user by de
+ sign (Article 3(1)).\n\nManufacturers of connected products and providers 
+ of related services\n\nhttps://autoregix.com/en/deadlines/#dataAct-2026-09
+ -12-0
+URL:https://autoregix.com/en/deadlines/#dataAct-2026-09-12-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vsmeStandard-2026-09-24-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Voluntary reporting standard and value-chain cap\, Delegated Regula
+ tion (EU) 2026/1560: The EU voluntary sustainability reporting standard (
+ …
+DESCRIPTION:The EU voluntary sustainability reporting standard (based on th
+ e VSME) enters into force and can be used by any company outside CSRD scop
+ e.\n\nCompanies not subject to mandatory CSRD reporting\, in particular th
+ ose with up to 1\,000 employees\n\nPublished 21 September 2026; in force o
+ n the third day after publication (Article 4). The value-chain cap itself 
+ applies from financial years starting on or after 1 January 2027.\n\nhttps
+ ://autoregix.com/en/deadlines/#vsmeStandard-2026-09-24-0
+URL:https://autoregix.com/en/deadlines/#vsmeStandard-2026-09-24-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecgt-2026-09-27-24-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Directive (EU) 2024/825 (empowering consumers for the green transit
+ ion): National rules apply: ban on generic green claims without proof\, o
+ …
+DESCRIPTION:National rules apply: ban on generic green claims without proof
+ \, on offset-based neutrality claims and uncertified sustainability labels
+ ; new durability and guarantee information.\n\nAll traders selling to cons
+ umers in the EU\n\nNot postponed.\n\nhttps://autoregix.com/en/deadlines/#e
+ cgt-2026-09-27-24
+URL:https://autoregix.com/en/deadlines/#ecgt-2026-09-27-24
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2026-10-10-25-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Regulation (EU) 2024/2462 (PFHxA): PFHxA ban in textiles\, leather\
+ , furs and hides in clothing and related accessories for the general publi
+ …
+DESCRIPTION:PFHxA ban in textiles\, leather\, furs and hides in clothing an
+ d related accessories for the general public\, and in footwear for the gen
+ eral public.\n\nManufacturers\, importers\, retailers of consumer clothing
+ \, accessories\, footwear\n\nLimits: 25 ppb PFHxA and salts\, 1000 ppb rel
+ ated substances. Items placed on the market before this date are not cover
+ ed. PPE category III\, medical devices and construction textiles are exemp
+ t.\n\nhttps://autoregix.com/en/deadlines/#pfhxa-2026-10-10-25
+URL:https://autoregix.com/en/deadlines/#pfhxa-2026-10-10-25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2026-10-10-26-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Regulation (EU) 2024/2462 (PFHxA): PFHxA ban in paper and cardboard
+  food contact materials\, in mixtures for the general public\, and in cosm
+ …
+DESCRIPTION:PFHxA ban in paper and cardboard food contact materials\, in mi
+ xtures for the general public\, and in cosmetic products.\n\nMakers and im
+ porters of paper food packaging\, consumer mixtures\, cosmetics\n\nLimits:
+  25 ppb PFHxA and salts\, 1000 ppb related substances. Articles and mixtur
+ es placed on the market before this date are not covered.\n\nhttps://autor
+ egix.com/en/deadlines/#pfhxa-2026-10-10-26
+URL:https://autoregix.com/en/deadlines/#pfhxa-2026-10-10-26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:digitalOmnibus-2026-10-21-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Digital Omnibus proposal COM(2025) 837: The Council agreed its nego
+ tiating mandate on the Digital Omnibus (GDPR\, ePrivacy\, Data Act). [Chan
+ ge proposed]
+DESCRIPTION:The Council agreed its negotiating mandate on the Digital Omnib
+ us (GDPR\, ePrivacy\, Data Act).\n\nAll businesses subject to the GDPR\, c
+ ookie rules or Data Act\n\nParliament has not adopted its position; no tri
+ logue yet.\n\nhttps://autoregix.com/en/deadlines/#digitalOmnibus-2026-10-2
+ 1-0
+URL:https://autoregix.com/en/deadlines/#digitalOmnibus-2026-10-21-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:handlingFee-2026-11-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Union handling fee\, Delegated Regulation (EU) 2026/2152: A Union h
+ andling fee of EUR 2 per item applies to goods sold in distance sales fro
+ …
+DESCRIPTION:A Union handling fee of EUR 2 per item applies to goods sold in
+  distance sales from outside the EU when they are released for free circul
+ ation\, whatever their value.\n\nNon-EU sellers\, marketplaces\, IOSS hold
+ ers and their customs representatives; carriers acting as declarant\n\nArt
+ icle 20(2) of Regulation (EU) 2026/2108 and Delegated Regulation (EU) 2026
+ /2152. Due in addition to the EUR 3 duty. Not refundable. Product identifi
+ ers per item also became mandatory in the customs data on this date (Deleg
+ ated Regulation (EU) 2026/1022).\n\nhttps://autoregix.com/en/deadlines/#ha
+ ndlingFee-2026-11-01-0
+URL:https://autoregix.com/en/deadlines/#handlingFee-2026-11-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:socialSecurityRevision-2026-11-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Revision of social security coordination\, Regulation (EU) 2026/235
+ 9: The revised social security coordination rules entered into force.
+DESCRIPTION:The revised social security coordination rules entered into for
+ ce.\n\nEmployers and workers active in more than one EU country\n\nMost ch
+ anges on applicable legislation apply from 2 November 2028.\n\nhttps://aut
+ oregix.com/en/deadlines/#socialSecurityRevision-2026-11-01-0
+URL:https://autoregix.com/en/deadlines/#socialSecurityRevision-2026-11-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:esrsRevised-2026-11-10-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Revised European Sustainability Reporting Standards\, Delegated Reg
+ ulation (EU) 2026/1563: The revised\, shorter European Sustainability Repo
+ …
+DESCRIPTION:The revised\, shorter European Sustainability Reporting Standar
+ ds enter into force; they are optional for financial year 2026 and mandato
+ ry for financial years starting on or after 1 January 2027.\n\nCompanies r
+ eporting under the CSRD\n\nhttps://autoregix.com/en/deadlines/#esrsRevised
+ -2026-11-10-0
+URL:https://autoregix.com/en/deadlines/#esrsRevised-2026-11-10-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:digitalFairnessAct-2026-11-11-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Digital Fairness Act proposal COM(2026) 1100: The Commission publis
+ hed the proposal for a Digital Fairness Act\, a regulation that would rep
+ … [Change proposed]
+DESCRIPTION:The Commission published the proposal for a Digital Fairness Ac
+ t\, a regulation that would replace the Unfair Commercial Practices Direct
+ ive.\n\nAll traders dealing with consumers in the EU\, including traders o
+ utside the EU.\n\nCOM(2026) 1100\, procedure 2026/0356(COD). Not adopted.\
+ n\nhttps://autoregix.com/en/deadlines/#digitalFairnessAct-2026-11-11-0
+URL:https://autoregix.com/en/deadlines/#digitalFairnessAct-2026-11-11-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usTariffAdjustment-2026-12-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Duties and tariff quotas for US goods\, Regulation (EU) 2026/1455: 
+ Deadline for the Commission to report on the US tariff treatment of EU st
+ …
+DESCRIPTION:Deadline for the Commission to report on the US tariff treatmen
+ t of EU steel and aluminium derivative products (Article 3(2)).\n\nEU expo
+ rters of steel and aluminium products; importers of US goods in chapters 7
+ 2\, 73 and 76\n\nhttps://autoregix.com/en/deadlines/#usTariffAdjustment-20
+ 26-12-01-0
+URL:https://autoregix.com/en/deadlines/#usTariffAdjustment-2026-12-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2026-12-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Regulation (EU) 2026/1744 (Digital Omnibus on AI): New bans apply t
+ o AI that generates non-consensual intimate images of identifiable peopl
+ …
+DESCRIPTION:New bans apply to AI that generates non-consensual intimate ima
+ ges of identifiable people or child sexual abuse material (Article 5(1)(ba
+ ) and (bb)).\n\nProviders and deployers of generative AI systems\n\nhttps:
+ //autoregix.com/en/deadlines/#aiOmnibus-2026-12-02-0
+URL:https://autoregix.com/en/deadlines/#aiOmnibus-2026-12-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2026-12-02-1-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Regulation (EU) 2026/1744 (Digital Omnibus on AI): End of the four-
+ month grace period: generative AI systems placed on the market before 2…
+DESCRIPTION:End of the four-month grace period: generative AI systems place
+ d on the market before 2 August 2026 must mark their output in machine-rea
+ dable form (Article 50(2)\, Article 111(4)).\n\nProviders of generative AI
+  systems\n\nNo grace period for deployers.\n\nhttps://autoregix.com/en/dea
+ dlines/#aiOmnibus-2026-12-02-1
+URL:https://autoregix.com/en/deadlines/#aiOmnibus-2026-12-02-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:platformWork-2026-12-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Platform Work Directive (EU) 2024/2831: Deadline for EU countries t
+ o put the Platform Work Directive into national law. The presumption of…
+DESCRIPTION:Deadline for EU countries to put the Platform Work Directive in
+ to national law. The presumption of employment covers contract periods fro
+ m this date.\n\nDigital labour platforms\, intermediaries and people worki
+ ng through platforms\n\nMany countries had not finished their laws in mid-
+ November 2026.\n\nhttps://autoregix.com/en/deadlines/#platformWork-2026-12
+ -02-0
+URL:https://autoregix.com/en/deadlines/#platformWork-2026-12-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pld-2026-12-09-27-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Product Liability Directive (EU) 2024/2853: Transposition deadline;
+  the new rules cover products placed on the market or put into service f
+ …
+DESCRIPTION:Transposition deadline; the new rules cover products placed on 
+ the market or put into service from this date\, including software.\n\nMan
+ ufacturers\, importers\, authorised representatives\, fulfilment providers
+ \, online platforms\n\nDirective 85/374/EEC keeps applying to products pla
+ ced on the market before this date.\n\nhttps://autoregix.com/en/deadlines/
+ #pld-2026-12-09-27
+URL:https://autoregix.com/en/deadlines/#pld-2026-12-09-27
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eudr-2026-12-30-28-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Deforestation Regulation (EU) 2023/1115: Due diligence and placing-
+ on-market obligations apply to large and medium operators and traders; t
+ … [Postponed]
+DESCRIPTION:Due diligence and placing-on-market obligations apply to large 
+ and medium operators and traders; the EU Timber Regulation is repealed.\n\
+ nLarge and medium operators and traders of cattle\, cocoa\, coffee\, palm 
+ oil\, rubber\, soya\, wood goods\n\nSecond postponement: 30 Dec 2024\, the
+ n 30 Dec 2025\, now 30 Dec 2026 under Regulation (EU) 2025/2650.\n\nhttps:
+ //autoregix.com/en/deadlines/#eudr-2026-12-30-28
+URL:https://autoregix.com/en/deadlines/#eudr-2026-12-30-28
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usTariffAdjustment-2026-12-31-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Duties and tariff quotas for US goods\, Regulation (EU) 2026/1455: 
+ Reference date: if the US still charges more than 15% on EU steel and alu
+ …
+DESCRIPTION:Reference date: if the US still charges more than 15% on EU ste
+ el and aluminium derivatives\, the Commission may suspend the 0% duty for 
+ US goods in chapters 72\, 73 and 76.\n\nEU importers of US steel and alumi
+ nium goods\n\nA power\, not an automatic suspension.\n\nhttps://autoregix.
+ com/en/deadlines/#usTariffAdjustment-2026-12-31-0
+URL:https://autoregix.com/en/deadlines/#usTariffAdjustment-2026-12-31-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vatDirective-2026-12-31-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:VAT Directive 2006/112/EC: The option for EU countries to apply a d
+ omestic reverse charge under Article 199a (for example mobile phones\, em
+ …
+DESCRIPTION:The option for EU countries to apply a domestic reverse charge 
+ under Article 199a (for example mobile phones\, emission allowances\, gas 
+ and electricity\, metals) expires\, as does the Quick Reaction Mechanism.\
+ n\nBusinesses in the sectors where an EU country uses the Article 199a rev
+ erse charge\n\nThe Commission proposed on 1 October 2026 to extend both to
+  30 June 2030 (COM(2026) 515). Adoption by the Council was not confirmed o
+ n 24 November 2026.\n\nhttps://autoregix.com/en/deadlines/#vatDirective-20
+ 26-12-31-0
+URL:https://autoregix.com/en/deadlines/#vatDirective-2026-12-31-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2027-01-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:VAT in the Digital Age Directive (EU) 2025/516: First ViDA changes 
+ to the One Stop Shop schemes apply\, including the use of the Union schem
+ …
+DESCRIPTION:First ViDA changes to the One Stop Shop schemes apply\, includi
+ ng the use of the Union scheme for cross-border sales of gas\, electricity
+ \, heating and cooling to consumers.\n\nBusinesses registered for OSS or I
+ OSS; energy suppliers\n\nArticle 2 of Directive (EU) 2025/516. EU countrie
+ s must transpose by 31 December 2026.\n\nhttps://autoregix.com/en/deadline
+ s/#vidaDirective-2027-01-01-0
+URL:https://autoregix.com/en/deadlines/#vidaDirective-2027-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrdOmnibus-2027-01-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Directive (EU) 2026/470 (simplified sustainability reporting): Fina
+ ncial years starting from this date: companies and groups above EUR 450…
+  [Postponed]
+DESCRIPTION:Financial years starting from this date: companies and groups a
+ bove EUR 450 million net turnover and 1\,000 employees report under the CS
+ RD\, with first reports in 2028; the value-chain cap applies.\n\nEU compan
+ ies and groups above both thresholds; issuers on EU regulated markets abov
+ e both thresholds\n\nThe second wave was originally due for financial year
+  2025 and was postponed by Directive (EU) 2025/794. Scope then cut by Dire
+ ctive (EU) 2026/470. Listed SMEs removed.\n\nhttps://autoregix.com/en/dead
+ lines/#csrdOmnibus-2027-01-01-0
+URL:https://autoregix.com/en/deadlines/#csrdOmnibus-2027-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dataAct-2027-01-12-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Data Act\, Regulation (EU) 2023/2854: Cloud providers may no longer
+  charge switching charges\, including data egress charges (Article 29).
+DESCRIPTION:Cloud providers may no longer charge switching charges\, includ
+ ing data egress charges (Article 29).\n\nProviders of data processing serv
+ ices and their customers\n\nhttps://autoregix.com/en/deadlines/#dataAct-20
+ 27-01-12-0
+URL:https://autoregix.com/en/deadlines/#dataAct-2027-01-12-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:machinerynew-2027-01-20-30-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Machinery Regulation (EU) 2023/1230: Machinery Regulation applies i
+ n full and replaces Directive 2006/42/EC.
+DESCRIPTION:Machinery Regulation applies in full and replaces Directive 200
+ 6/42/EC.\n\nManufacturers\, importers\, distributors of machinery and rela
+ ted products\n\nNot postponed.\n\nhttps://autoregix.com/en/deadlines/#mach
+ inerynew-2027-01-20-30
+URL:https://autoregix.com/en/deadlines/#machinerynew-2027-01-20-30
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2027-02-01-31-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:CBAM Regulation (EU) 2023/956: Member States start selling CBAM cer
+ tificates on the common central platform. [Postponed]
+DESCRIPTION:Member States start selling CBAM certificates on the common cen
+ tral platform.\n\nAuthorised CBAM declarants\n\nPostponed from 1 Jan 2026.
+  From 2027 declarants must hold certificates for 50% of year-to-date embed
+ ded emissions at each quarter end (was 80%).\n\nhttps://autoregix.com/en/d
+ eadlines/#cbam-2027-02-01-31
+URL:https://autoregix.com/en/deadlines/#cbam-2027-02-01-31
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2027-02-12-32-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Take-away bu
+ sinesses must let consumers bring their own container for drinks and rea
+ …
+DESCRIPTION:Take-away businesses must let consumers bring their own contain
+ er for drinks and ready-prepared food at no extra cost (Art. 32).\n\nHOREC
+ A final distributors selling take-away\n\nhttps://autoregix.com/en/deadlin
+ es/#ppwr-2027-02-12-32
+URL:https://autoregix.com/en/deadlines/#ppwr-2027-02-12-32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-02-18-33-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Batteries Regulation (EU) 2023/1542: QR code on all batteries (Art.
+  13(6)).
+DESCRIPTION:QR code on all batteries (Art. 13(6)).\n\nManufacturers and imp
+ orters of all batteries\n\nhttps://autoregix.com/en/deadlines/#batteries-2
+ 027-02-18-33
+URL:https://autoregix.com/en/deadlines/#batteries-2027-02-18-33
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-02-18-34-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Batteries Regulation (EU) 2023/1542: Portable batteries in products
+  must be removable and replaceable by the end-user; LMT batteries by an…
+DESCRIPTION:Portable batteries in products must be removable and replaceabl
+ e by the end-user; LMT batteries by an independent professional (Art. 11).
+ \n\nManufacturers of products containing portable or LMT batteries\n\nhttp
+ s://autoregix.com/en/deadlines/#batteries-2027-02-18-34
+URL:https://autoregix.com/en/deadlines/#batteries-2027-02-18-34
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-02-18-35-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Batteries Regulation (EU) 2023/1542: Battery passport required for 
+ LMT batteries\, industrial batteries over 2 kWh and EV batteries (Art. 77
+ …
+DESCRIPTION:Battery passport required for LMT batteries\, industrial batter
+ ies over 2 kWh and EV batteries (Art. 77).\n\nEconomic operators placing t
+ hese batteries on the market\n\nhttps://autoregix.com/en/deadlines/#batter
+ ies-2027-02-18-35
+URL:https://autoregix.com/en/deadlines/#batteries-2027-02-18-35
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrdOmnibus-2027-03-19-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Directive (EU) 2026/470 (simplified sustainability reporting): Dead
+ line for member states to transpose the sustainability reporting changes
+ …
+DESCRIPTION:Deadline for member states to transpose the sustainability repo
+ rting changes of Directive (EU) 2026/470 (Articles 1 to 3).\n\nMember stat
+ es; companies should check national law for the wave 1 exemption for 2025 
+ and 2026\n\nhttps://autoregix.com/en/deadlines/#csrdOmnibus-2027-03-19-0
+URL:https://autoregix.com/en/deadlines/#csrdOmnibus-2027-03-19-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gdprProcedure-2027-04-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:GDPR Procedural Regulation (EU) 2025/2518: Regulation (EU) 2025/251
+ 8 on procedural rules for cross-border GDPR enforcement applies.
+DESCRIPTION:Regulation (EU) 2025/2518 on procedural rules for cross-border 
+ GDPR enforcement applies.\n\nSupervisory authorities\, complainants and co
+ mpanies under cross-border investigation\n\nPublished 12 December 2025\, i
+ n force 1 January 2026.\n\nhttps://autoregix.com/en/deadlines/#gdprProcedu
+ re-2027-04-02-0
+URL:https://autoregix.com/en/deadlines/#gdprProcedure-2027-04-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:payTransparency-2027-06-07-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Pay Transparency Directive (EU) 2023/970: First gender pay gap repo
+ rt due\, covering 2026.
+DESCRIPTION:First gender pay gap report due\, covering 2026.\n\nEmployers w
+ ith 150 or more workers\n\nYearly from then for 250 or more workers\, ever
+ y three years for 150 to 249 workers. Depends on national transposition.\n
+ \nhttps://autoregix.com/en/deadlines/#payTransparency-2027-06-07-0
+URL:https://autoregix.com/en/deadlines/#payTransparency-2027-06-07-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:accessibilityAct-2027-06-28-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:European Accessibility Act\, Directive (EU) 2019/882: Latest date b
+ y which EU countries must apply the accessibility requirements for answer
+ …
+DESCRIPTION:Latest date by which EU countries must apply the accessibility 
+ requirements for answering emergency communications to the number 112.\n\n
+ Public safety answering points in the EU countries.\n\nArticle 31(3).\n\nh
+ ttps://autoregix.com/en/deadlines/#accessibilityAct-2027-06-28-0
+URL:https://autoregix.com/en/deadlines/#accessibilityAct-2027-06-28-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eudr-2027-06-30-37-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Deforestation Regulation (EU) 2023/1115: Obligations apply to natur
+ al persons and micro or small undertakings established as such by 31 Dec
+ … [Postponed]
+DESCRIPTION:Obligations apply to natural persons and micro or small underta
+ kings established as such by 31 Dec 2024 (not for products already under t
+ he Timber Regulation).\n\nMicro and small operators\n\nWas 30 June 2025\, 
+ then 30 June 2026. 2025/2650 also limits due diligence statements to the f
+ irst placer\, adds a one-off simplified declaration for micro/small primar
+ y operators and removes printed products.\n\nhttps://autoregix.com/en/dead
+ lines/#eudr-2027-06-30-37
+URL:https://autoregix.com/en/deadlines/#eudr-2027-06-30-37
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrdOmnibus-2027-07-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Directive (EU) 2026/470 (simplified sustainability reporting): Dead
+ line for the Commission to adopt limited assurance standards for sustain
+ …
+DESCRIPTION:Deadline for the Commission to adopt limited assurance standard
+ s for sustainability reports; the planned move to reasonable assurance was
+  removed.\n\nAuditors and companies reporting under the CSRD\n\nCommission
+  consultation open from 12 November 2026 to 18 January 2027.\n\nhttps://au
+ toregix.com/en/deadlines/#csrdOmnibus-2027-07-01-0
+URL:https://autoregix.com/en/deadlines/#csrdOmnibus-2027-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2027-07-26-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Corporate Sustainability Due Diligence Directive (EU) 2024/1760: De
+ adline for the Commission's general due diligence guidelines and its gui
+ …
+DESCRIPTION:Deadline for the Commission's general due diligence guidelines 
+ and its guidance on voluntary model contract clauses.\n\nCompanies in CSDD
+ D scope and their business partners\n\nDates set by Directive (EU) 2026/47
+ 0 (Articles 18 and 19(3) CSDDD).\n\nhttps://autoregix.com/en/deadlines/#cs
+ ddd-2027-07-26-0
+URL:https://autoregix.com/en/deadlines/#csddd-2027-07-26-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiAct-2027-08-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:AI Act (EU) 2024/1689: General-purpose AI models placed on the mark
+ et before 2 August 2025 must comply (Article 111(3)).
+DESCRIPTION:General-purpose AI models placed on the market before 2 August 
+ 2025 must comply (Article 111(3)).\n\nProviders of general-purpose AI mode
+ ls\n\nhttps://autoregix.com/en/deadlines/#aiAct-2027-08-02-0
+URL:https://autoregix.com/en/deadlines/#aiAct-2027-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2027-08-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Regulation (EU) 2026/1744 (Digital Omnibus on AI): Each Member Stat
+ e must have at least one AI regulatory sandbox in operation; Commission…
+DESCRIPTION:Each Member State must have at least one AI regulatory sandbox 
+ in operation; Commission must adopt delegated acts limiting duplicate requ
+ irements for Annex I Section A products.\n\nMember States; Commission\n\nS
+ andbox deadline moved from 2 August 2026.\n\nhttps://autoregix.com/en/dead
+ lines/#aiOmnibus-2027-08-02-0
+URL:https://autoregix.com/en/deadlines/#aiOmnibus-2027-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-08-18-38-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Batteries Regulation (EU) 2023/1542: Battery due diligence obligati
+ ons start (Art. 48 to 52). [Postponed]
+DESCRIPTION:Battery due diligence obligations start (Art. 48 to 52).\n\nOpe
+ rators placing batteries on the market with net turnover of EUR 40 million
+  or more\n\nPostponed by two years from 18 Aug 2025 by Regulation (EU) 202
+ 5/1561. Commission guidelines deadline moved to 26 July 2026.\n\nhttps://a
+ utoregix.com/en/deadlines/#batteries-2027-08-18-38
+URL:https://autoregix.com/en/deadlines/#batteries-2027-08-18-38
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dataAct-2027-09-12-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Data Act\, Regulation (EU) 2023/2854: Unfair terms rules (Chapter I
+ V) extend to contracts concluded on or before 12 September 2025 that are
+ …
+DESCRIPTION:Unfair terms rules (Chapter IV) extend to contracts concluded o
+ n or before 12 September 2025 that are open-ended or run until at least 11
+  January 2034.\n\nBusinesses with long-running data contracts\n\nhttps://a
+ utoregix.com/en/deadlines/#dataAct-2027-09-12-0
+URL:https://autoregix.com/en/deadlines/#dataAct-2027-09-12-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:customsReform-2027-09-21-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:New Union Customs Code and EU Customs Authority\, Regulation (EU) 2
+ 026/2108: The new Union Customs Code applies in general and replaces Regu
+ …
+DESCRIPTION:The new Union Customs Code applies in general and replaces Regu
+ lation (EU) No 952/2013.\n\nAll importers\, exporters and customs represen
+ tatives\n\nIn force since 20 September 2026; the EU Customs Authority (sea
+ t Lille) is established from that date.\n\nhttps://autoregix.com/en/deadli
+ nes/#customsReform-2027-09-21-0
+URL:https://autoregix.com/en/deadlines/#customsReform-2027-09-21-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2027-09-30-39-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:CBAM Regulation (EU) 2023/956: First annual CBAM declaration and su
+ rrender of certificates\, covering imports in 2026. [Postponed]
+DESCRIPTION:First annual CBAM declaration and surrender of certificates\, c
+ overing imports in 2026.\n\nAuthorised CBAM declarants\n\nOriginal deadlin
+ e was 31 May each year; moved to 30 September by Regulation (EU) 2025/2083
+ .\n\nhttps://autoregix.com/en/deadlines/#cbam-2027-09-30-39
+URL:https://autoregix.com/en/deadlines/#cbam-2027-09-30-39
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2027-10-10-40-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Regulation (EU) 2024/2462 (PFHxA): PFHxA ban in other textiles\, le
+ ather\, furs and hides for the general public (not clothing)\, for example
+ …
+DESCRIPTION:PFHxA ban in other textiles\, leather\, furs and hides for the 
+ general public (not clothing)\, for example home textiles\, upholstery\, o
+ utdoor gear fabrics.\n\nManufacturers\, importers\, retailers of other con
+ sumer textiles and leather goods\n\nLimits: 25 ppb PFHxA and salts\, 1000 
+ ppb related substances. Articles placed on the market before this date are
+  not covered.\n\nhttps://autoregix.com/en/deadlines/#pfhxa-2027-10-10-40
+URL:https://autoregix.com/en/deadlines/#pfhxa-2027-10-10-40
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nis2-2027-10-17-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:NIS2 Directive (EU) 2022/2555: The Commission must review how NIS2 
+ works and report to Parliament and Council (Article 40).
+DESCRIPTION:The Commission must review how NIS2 works and report to Parliam
+ ent and Council (Article 40).\n\nEuropean Commission\n\nhttps://autoregix.
+ com/en/deadlines/#nis2-2027-10-17-0
+URL:https://autoregix.com/en/deadlines/#nis2-2027-10-17-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:parcels-2027-12-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:Regulation (EU) 2026/382 (customs duty on low-value parcels): The C
+ ommission must assess whether the EU IT system for levying duty on e-com
+ …
+DESCRIPTION:The Commission must assess whether the EU IT system for levying
+  duty on e-commerce consignments will be ready by 1 July 2028 and may prop
+ ose to extend the flat EUR 3 duty.\n\nNon-EU sellers and marketplaces ship
+ ping to EU consumers\n\nArticle 3(2) of Regulation (EU) 2026/382.\n\nhttps
+ ://autoregix.com/en/deadlines/#parcels-2027-12-01-0
+URL:https://autoregix.com/en/deadlines/#parcels-2027-12-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiact-2027-12-02-41-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:AI Act (EU) 2024/1689: High-risk obligations apply to stand-alone A
+ nnex III AI systems. [Postponed]
+DESCRIPTION:High-risk obligations apply to stand-alone Annex III AI systems
+ .\n\nProviders and deployers of Annex III high-risk AI systems\n\nPostpone
+ d from 2 Aug 2026 by the Digital Omnibus on AI\, Regulation (EU) 2026/1744
+ \, in force since 27 July 2026.\n\nhttps://autoregix.com/en/deadlines/#aia
+ ct-2027-12-02-41
+URL:https://autoregix.com/en/deadlines/#aiact-2027-12-02-41
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2027-12-11-42-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:Cyber Resilience Act (EU) 2024/2847: All remaining obligations appl
+ y: essential cybersecurity requirements\, conformity assessment\, CE marki
+ …
+DESCRIPTION:All remaining obligations apply: essential cybersecurity requir
+ ements\, conformity assessment\, CE marking\, support period\, importer an
+ d distributor duties.\n\nManufacturers\, importers\, distributors of produ
+ cts with digital elements\n\nProducts placed on the market before this dat
+ e are covered only if substantially modified afterwards.\n\nhttps://autore
+ gix.com/en/deadlines/#cra-2027-12-11-42
+URL:https://autoregix.com/en/deadlines/#cra-2027-12-11-42
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:redcyber-2027-12-11-43-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:Delegated Regulation (EU) 2022/30 (radio equipment cybersecurity): 
+ Delegated Regulation 2022/30 is repealed; the Cyber Resilience Act takes
+ …
+DESCRIPTION:Delegated Regulation 2022/30 is repealed; the Cyber Resilience 
+ Act takes over cybersecurity requirements for radio equipment.\n\nManufact
+ urers and importers of connected radio equipment\n\nRepeal adopted on 16 F
+ eb 2026 by Delegated Regulation (EU) 2026/339.\n\nhttps://autoregix.com/en
+ /deadlines/#redcyber-2027-12-11-43
+URL:https://autoregix.com/en/deadlines/#redcyber-2027-12-11-43
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:flr-2027-12-14-44-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:Forced Labour Regulation (EU) 2024/3015: Ban on placing\, making av
+ ailable or exporting products made with forced labour applies; authoritie
+ …
+DESCRIPTION:Ban on placing\, making available or exporting products made wi
+ th forced labour applies; authorities can investigate and order withdrawal
+ .\n\nAll economic operators\, any product\, any size of company\n\nNo amen
+ ding act found on EUR-Lex.\n\nhttps://autoregix.com/en/deadlines/#flr-2027
+ -12-14-44
+URL:https://autoregix.com/en/deadlines/#flr-2027-12-14-44
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eudr-2027-12-30-45-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:Deforestation Regulation (EU) 2023/1115: New product lines added to
+  Annex I by Delegated Regulation (EU) 2026/2102 start to apply.
+DESCRIPTION:New product lines added to Annex I by Delegated Regulation (EU)
+  2026/2102 start to apply.\n\nOperators and traders of the newly listed pr
+ oducts\n\nThe April 2026 simplification review (published 4 May 2026) conc
+ luded the basic text would not be reopened; scope was adjusted by this del
+ egated act instead.\n\nhttps://autoregix.com/en/deadlines/#eudr-2027-12-30
+ -45
+URL:https://autoregix.com/en/deadlines/#eudr-2027-12-30-45
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2028-01-01-46-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:CBAM Regulation (EU) 2023/956: Proposed extension of CBAM to downst
+ ream steel and aluminium-intensive goods plus anti-circumvention rules. [C
+ hange proposed]
+DESCRIPTION:Proposed extension of CBAM to downstream steel and aluminium-in
+ tensive goods plus anti-circumvention rules.\n\nImporters of downstream pr
+ oducts such as machinery parts\, appliances\, tools\n\nCommission proposal
+  COM(2025) 989 of Dec 2025; Council and Parliament mandates adopted in 202
+ 6\, trilogues ongoing in autumn 2026. Not law.\n\nhttps://autoregix.com/en
+ /deadlines/#cbam-2028-01-01-46
+URL:https://autoregix.com/en/deadlines/#cbam-2028-01-01-46
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:clp-2028-01-01-47-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:CLP Regulation (EC) No 1272/2008: Postponed CLP label formatting\, 
+ relabelling deadline\, advertising\, distance-selling and fuel-pump labell
+ i… [Postponed]
+DESCRIPTION:Postponed CLP label formatting\, relabelling deadline\, adverti
+ sing\, distance-selling and fuel-pump labelling rules of Regulation (EU) 2
+ 024/2865 apply from this date.\n\nSuppliers of hazardous substances and mi
+ xtures\, incl. consumer chemicals and online sellers\n\nThese rules were o
+ riginally due on 1 July 2026 and 1 January 2027.\n\nhttps://autoregix.com/
+ en/deadlines/#clp-2028-01-01-47
+URL:https://autoregix.com/en/deadlines/#clp-2028-01-01-47
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrd-2028-01-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Corporate Sustainability Reporting Directive (EU) 2022/2464: Financ
+ ial years starting from this date: non-EU groups with more than EUR 450…
+DESCRIPTION:Financial years starting from this date: non-EU groups with mor
+ e than EUR 450 million net turnover in the EU and an EU subsidiary or bran
+ ch above EUR 200 million must publish a sustainability report\, first in 2
+ 029.\n\nEU subsidiaries and branches of non-EU groups\n\nDate unchanged si
+ nce 2022; thresholds raised by Directive (EU) 2026/470 from EUR 150 millio
+ n (group) and EUR 40 million (branch). Reporting standards for these group
+ s are not yet adopted.\n\nhttps://autoregix.com/en/deadlines/#csrd-2028-01
+ -01-0
+URL:https://autoregix.com/en/deadlines/#csrd-2028-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2028-02-12-48-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280212
+DTEND;VALUE=DATE:20280213
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Sales packag
+ ing must have empty space reduced to the minimum necessary (Art. 24(4));
+ …
+DESCRIPTION:Sales packaging must have empty space reduced to the minimum ne
+ cessary (Art. 24(4)); take-away sellers must offer a reusable packaging op
+ tion (Art. 33).\n\nFillers of sales packaging; HORECA take-away sellers (m
+ icro-enterprises exempt from Art. 33)\n\nhttps://autoregix.com/en/deadline
+ s/#ppwr-2028-02-12-48
+URL:https://autoregix.com/en/deadlines/#ppwr-2028-02-12-48
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wfdtextiles-2028-04-17-49-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Directive (EU) 2025/1892 (textile and food waste): Member States mu
+ st have EPR schemes in place for textiles\, textile-related products and
+ …
+DESCRIPTION:Member States must have EPR schemes in place for textiles\, tex
+ tile-related products and footwear listed in Annex IVc.\n\nProducers\, inc
+ l. distance sellers\, of clothing\, home textiles\, footwear; online platf
+ orms\n\nFees are to be eco-modulated; producers without an establishment i
+ n a Member State need an authorised representative there.\n\nhttps://autor
+ egix.com/en/deadlines/#wfdtextiles-2028-04-17-49
+URL:https://autoregix.com/en/deadlines/#wfdtextiles-2028-04-17-49
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2028-06-11-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280611
+DTEND;VALUE=DATE:20280612
+SUMMARY:Cyber Resilience Act (EU) 2024/2847: EU type-examination certificat
+ es for cybersecurity issued under other product laws stay valid until th
+ …
+DESCRIPTION:EU type-examination certificates for cybersecurity issued under
+  other product laws stay valid until this date at the latest (Article 69(1
+ )).\n\nManufacturers holding such certificates\n\nhttps://autoregix.com/en
+ /deadlines/#cra-2028-06-11-0
+URL:https://autoregix.com/en/deadlines/#cra-2028-06-11-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2028-07-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:VAT in the Digital Age Directive (EU) 2025/516: Single VAT registra
+ tion: the Union One Stop Shop covers more sales of goods\, a new scheme c
+ …
+DESCRIPTION:Single VAT registration: the Union One Stop Shop covers more sa
+ les of goods\, a new scheme covers transfers of own goods\, and reverse ch
+ arge becomes mandatory where the supplier is not established or identified
+  in the country of the VAT.\n\nBusinesses selling or holding stock in EU c
+ ountries where they are not established\, including non-EU sellers\n\nArti
+ cle 3 of Directive (EU) 2025/516 (Articles 194\, 369b\, 369xa to 369xk of 
+ the VAT Directive).\n\nhttps://autoregix.com/en/deadlines/#vidaDirective-2
+ 028-07-01-0
+URL:https://autoregix.com/en/deadlines/#vidaDirective-2028-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2028-07-01-1-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:VAT in the Digital Age Directive (EU) 2025/516: Platforms that faci
+ litate short-term accommodation rental or passenger transport by road be
+ …
+DESCRIPTION:Platforms that facilitate short-term accommodation rental or pa
+ ssenger transport by road become the deemed supplier for VAT unless the pr
+ ovider gives its VAT number and declares that it charges VAT.\n\nAccommoda
+ tion and ride platforms and the providers using them\n\nArticle 28a. An EU
+  country may apply this at the latest from 1 January 2030.\n\nhttps://auto
+ regix.com/en/deadlines/#vidaDirective-2028-07-01-1
+URL:https://autoregix.com/en/deadlines/#vidaDirective-2028-07-01-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:importVat-2028-07-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Import VAT and IOSS Directive (EU) 2025/1539: A seller or marketpla
+ ce that makes IOSS-eligible sales without using IOSS becomes liable for…
+DESCRIPTION:A seller or marketplace that makes IOSS-eligible sales without 
+ using IOSS becomes liable for import VAT in each country of destination\, 
+ with a tax representative if it is established in a country without a mutu
+ al assistance agreement.\n\nNon-EU sellers and marketplaces shipping consi
+ gnments up to EUR 150 to EU consumers\n\nDirective (EU) 2025/1539\, new Ar
+ ticle 201 of the VAT Directive. The special arrangements for import VAT (A
+ rticles 369y to 369zb) are deleted on the same date.\n\nhttps://autoregix.
+ com/en/deadlines/#importVat-2028-07-01-0
+URL:https://autoregix.com/en/deadlines/#importVat-2028-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:customsReform-2028-07-01-1-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:New Union Customs Code and EU Customs Authority\, Regulation (EU) 2
+ 026/2108: Sellers and platforms become the importer for distance sales\, l
+ …
+DESCRIPTION:Sellers and platforms become the importer for distance sales\, 
+ liable for duty and the handling fee\, and must provide their data through
+  the EU Customs Data Hub; the flat EUR 3 duty is due to end.\n\nNon-EU sel
+ lers\, marketplaces\, IOSS holders\n\nRegulation (EU) 2026/2108\, Articles
+  285(2) and 287(5); Regulation (EU) 2026/382\, Article 2. A lower handling
+  fee for goods from a customs warehouse for distance sales starts on the s
+ ame date; its amount is not yet set.\n\nhttps://autoregix.com/en/deadlines
+ /#customsReform-2028-07-01-1
+URL:https://autoregix.com/en/deadlines/#customsReform-2028-07-01-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vatDirective-2028-07-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:VAT Directive 2006/112/EC: The EUR 150 limit would be deleted for I
+ OSS and for the marketplace deemed-supplier rule on imported goods\, so t
+ … [Change proposed]
+DESCRIPTION:The EUR 150 limit would be deleted for IOSS and for the marketp
+ lace deemed-supplier rule on imported goods\, so that both cover distance 
+ sales of imported goods of any value.\n\nNon-EU sellers and marketplaces\n
+ \nCouncil general approach of 9 November 2026 (document 15480/26\, file 20
+ 23/0158 (CNS)). The European Parliament must be consulted again before ado
+ ption. Start depends on the Customs Data Hub being operational.\n\nhttps:/
+ /autoregix.com/en/deadlines/#vatDirective-2028-07-01-0
+URL:https://autoregix.com/en/deadlines/#vatDirective-2028-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2028-07-26-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Corporate Sustainability Due Diligence Directive (EU) 2024/1760: De
+ adline for member states to adopt and publish national laws transposing…
+  [Postponed]
+DESCRIPTION:Deadline for member states to adopt and publish national laws t
+ ransposing the CSDDD.\n\nMember states\n\nWas 26 July 2026\, moved to 26 J
+ uly 2027 by Directive (EU) 2025/794 and to 26 July 2028 by Directive (EU) 
+ 2026/470.\n\nhttps://autoregix.com/en/deadlines/#csddd-2028-07-26-0
+URL:https://autoregix.com/en/deadlines/#csddd-2028-07-26-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiact-2028-08-02-50-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280802
+DTEND;VALUE=DATE:20280803
+SUMMARY:AI Act (EU) 2024/1689: High-risk obligations apply to AI that is a 
+ product or safety component under Annex I harmonisation law (machinery\,
+ … [Postponed]
+DESCRIPTION:High-risk obligations apply to AI that is a product or safety c
+ omponent under Annex I harmonisation law (machinery\, toys\, radio equipme
+ nt\, medical devices\, lifts and others).\n\nManufacturers of regulated pr
+ oducts with AI safety components\n\nPostponed from 2 August 2027 by Regula
+ tion (EU) 2026/1744.\n\nhttps://autoregix.com/en/deadlines/#aiact-2028-08-
+ 02-50
+URL:https://autoregix.com/en/deadlines/#aiact-2028-08-02-50
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2028-08-12-51-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280812
+DTEND;VALUE=DATE:20280813
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Harmonised m
+ aterial-composition label on packaging (Art. 12(1)); legal date is 12 Au
+ … [Postponed]
+DESCRIPTION:Harmonised material-composition label on packaging (Art. 12(1))
+ ; legal date is 12 Aug 2028 or 24 months after the labelling implementing 
+ acts enter into force\, whichever is later.\n\nManufacturers and importers
+  of packaging (not transport packaging\, except e-commerce)\n\nThe Commiss
+ ion missed the 12 August 2026 deadline for the labelling acts\, so the dut
+ y is likely to start later. No official new date exists.\n\nhttps://autore
+ gix.com/en/deadlines/#ppwr-2028-08-12-51
+URL:https://autoregix.com/en/deadlines/#ppwr-2028-08-12-51
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2028-08-18-52-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280818
+DTEND;VALUE=DATE:20280819
+SUMMARY:Batteries Regulation (EU) 2023/1542: Carbon footprint declaration f
+ or LMT batteries (or 18 months after the methodology acts); recycled-con
+ …
+DESCRIPTION:Carbon footprint declaration for LMT batteries (or 18 months af
+ ter the methodology acts); recycled-content documentation for industrial o
+ ver 2 kWh\, EV and SLI batteries (Art. 8(1)).\n\nManufacturers of LMT\, EV
+ \, SLI and industrial batteries\n\nBoth dates are 'whichever is later' dat
+ es tied to delegated acts not yet adopted.\n\nhttps://autoregix.com/en/dea
+ dlines/#batteries-2028-08-18-52
+URL:https://autoregix.com/en/deadlines/#batteries-2028-08-18-52
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:socialSecurityRevision-2028-11-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:Revision of social security coordination\, Regulation (EU) 2026/235
+ 9: Employers must request the A1 certificate before sending a worker to a
+ …
+DESCRIPTION:Employers must request the A1 certificate before sending a work
+ er to another country. Decisions for work in two or more countries are lim
+ ited to 24 months.\n\nEmployers that send workers abroad or have staff wor
+ king in two or more countries\n\nBusiness trips are exempt\, and so are ac
+ tivities of up to three consecutive working days within 30 days outside co
+ nstruction.\n\nhttps://autoregix.com/en/deadlines/#socialSecurityRevision-
+ 2028-11-02-0
+URL:https://autoregix.com/en/deadlines/#socialSecurityRevision-2028-11-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2029-02-12-55-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290212
+DTEND;VALUE=DATE:20290213
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Reusable pac
+ kaging must carry a reusability label (Art. 12(2)); or 30 months after t
+ … [Postponed]
+DESCRIPTION:Reusable packaging must carry a reusability label (Art. 12(2));
+  or 30 months after the labelling implementing act\, whichever is later. A
+ rt. 67(5) also applies.\n\nManufacturers of reusable packaging\n\nDepends 
+ on the same delayed labelling implementing act\, so the effective date is 
+ likely to slip beyond 12 Feb 2029.\n\nhttps://autoregix.com/en/deadlines/#
+ ppwr-2029-02-12-55
+URL:https://autoregix.com/en/deadlines/#ppwr-2029-02-12-55
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wfdtextiles-2029-04-17-56-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290417
+DTEND;VALUE=DATE:20290418
+SUMMARY:Directive (EU) 2025/1892 (textile and food waste): Textile EPR obli
+ gations extend to micro-enterprises (fewer than 10 staff and up to EUR 2
+ …
+DESCRIPTION:Textile EPR obligations extend to micro-enterprises (fewer than
+  10 staff and up to EUR 2 million turnover).\n\nMicro-enterprise textile a
+ nd footwear producers\n\nhttps://autoregix.com/en/deadlines/#wfdtextiles-2
+ 029-04-17-56
+URL:https://autoregix.com/en/deadlines/#wfdtextiles-2029-04-17-56
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2029-07-26-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290726
+DTEND;VALUE=DATE:20290727
+SUMMARY:Corporate Sustainability Due Diligence Directive (EU) 2024/1760: Du
+ e diligence duties apply to all in-scope companies in one step. [Postponed
+ ]
+DESCRIPTION:Due diligence duties apply to all in-scope companies in one ste
+ p.\n\nEU companies with more than 5\,000 employees and EUR 1.5 billion net
+  worldwide turnover; non-EU companies with more than EUR 1.5 billion net t
+ urnover in the EU; large franchisors\n\nThe phased start (26 July 2027\, l
+ ater 26 July 2028\, for the largest companies) was removed by Directive (E
+ U) 2026/470.\n\nhttps://autoregix.com/en/deadlines/#csddd-2029-07-26-0
+URL:https://autoregix.com/en/deadlines/#csddd-2029-07-26-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:detergents-2029-09-23-57-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290923
+DTEND;VALUE=DATE:20290924
+SUMMARY:Detergents and Surfactants Regulation (EU) 2026/405: New detergents
+  regulation applies\, with digital product passport and digital labelling
+ …
+DESCRIPTION:New detergents regulation applies\, with digital product passpo
+ rt and digital labelling; Regulation (EC) No 648/2004 repealed.\n\nManufac
+ turers and importers of detergents and surfactants\n\nStock that meets the
+  old rules and is placed on the market by 22 September 2030 can be sold un
+ til 23 September 2030.\n\nhttps://autoregix.com/en/deadlines/#detergents-2
+ 029-09-23-57
+URL:https://autoregix.com/en/deadlines/#detergents-2029-09-23-57
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2029-10-10-58-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20291010
+DTEND;VALUE=DATE:20291011
+SUMMARY:Regulation (EU) 2024/2462 (PFHxA): PFHxA ban in firefighting foams 
+ and concentrates for civil aviation\, including civilian airports.
+DESCRIPTION:PFHxA ban in firefighting foams and concentrates for civil avia
+ tion\, including civilian airports.\n\nAirports\, suppliers of aviation fi
+ refighting foams\n\nLimits: 25 ppb PFHxA and salts\, 1000 ppb related subs
+ tances.\n\nhttps://autoregix.com/en/deadlines/#pfhxa-2029-10-10-58
+URL:https://autoregix.com/en/deadlines/#pfhxa-2029-10-10-58
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:platformWork-2029-12-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20291202
+DTEND;VALUE=DATE:20291203
+SUMMARY:Platform Work Directive (EU) 2024/2831: The European Commission mus
+ t review the Platform Work Directive.
+DESCRIPTION:The European Commission must review the Platform Work Directive
+ .\n\nDigital labour platforms\n\nhttps://autoregix.com/en/deadlines/#platf
+ ormWork-2029-12-02-0
+URL:https://autoregix.com/en/deadlines/#platformWork-2029-12-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-59-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: All packagin
+ g must be recyclable (design-for-recycling grades A\, B or C); or 24 mont
+ …
+DESCRIPTION:All packaging must be recyclable (design-for-recycling grades A
+ \, B or C); or 24 months after the delegated acts due by 1 Jan 2028\, whic
+ hever is later (Art. 6).\n\nPackaging manufacturers and importers\n\nGrade
+  C is phased out from 1 Jan 2038; recycled-at-scale requirement from 2035.
+ \n\nhttps://autoregix.com/en/deadlines/#ppwr-2030-01-01-59
+URL:https://autoregix.com/en/deadlines/#ppwr-2030-01-01-59
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-60-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Minimum recy
+ cled content in plastic packaging (10% to 35% by type); or 3 years after
+ …
+DESCRIPTION:Minimum recycled content in plastic packaging (10% to 35% by ty
+ pe); or 3 years after the calculation implementing act due by 31 Dec 2026\
+ , whichever is later (Art. 7).\n\nManufacturers and importers of plastic p
+ ackaging\n\nhttps://autoregix.com/en/deadlines/#ppwr-2030-01-01-60
+URL:https://autoregix.com/en/deadlines/#ppwr-2030-01-01-60
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-61-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Maximum empt
+ y-space ratio of 50% for grouped\, transport and e-commerce packaging; or
+ …
+DESCRIPTION:Maximum empty-space ratio of 50% for grouped\, transport and e-
+ commerce packaging; or 3 years after the methodology act due by 12 Feb 202
+ 8\, whichever is later (Art. 24(1)).\n\nEconomic operators who fill groupe
+ d\, transport or e-commerce packaging\n\nhttps://autoregix.com/en/deadline
+ s/#ppwr-2030-01-01-61
+URL:https://autoregix.com/en/deadlines/#ppwr-2030-01-01-61
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-62-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Ban on packa
+ ging formats in Annex V (e.g. single-use plastic grouped packaging\, pack
+ …
+DESCRIPTION:Ban on packaging formats in Annex V (e.g. single-use plastic gr
+ ouped packaging\, packs for under 1.5 kg fresh produce\, HORECA single-use
+ \, hotel miniatures\, very light bags).\n\nAll economic operators placing 
+ these formats on the market\n\nCommission guidelines on Annex V are due by
+  12 Feb 2027.\n\nhttps://autoregix.com/en/deadlines/#ppwr-2030-01-01-62
+URL:https://autoregix.com/en/deadlines/#ppwr-2030-01-01-62
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-63-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Packaging and Packaging Waste Regulation (EU) 2025/40: Re-use targe
+ ts start (Art. 29): 40% reusable transport packaging\, 10% grouped boxes\,
+ …
+DESCRIPTION:Re-use targets start (Art. 29): 40% reusable transport packagin
+ g\, 10% grouped boxes\, 10% of beverages in reusable packaging; near-100% 
+ for own-site and same-Member-State B2B transport.\n\nUsers of transport an
+ d grouped packaging; final distributors of beverages\n\nExemptions exist f
+ or micro-enterprises\, cardboard boxes\, and several product types.\n\nhtt
+ ps://autoregix.com/en/deadlines/#ppwr-2030-01-01-63
+URL:https://autoregix.com/en/deadlines/#ppwr-2030-01-01-63
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2030-01-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Corporate Sustainability Due Diligence Directive (EU) 2024/1760: Fi
+ nancial years starting from this date: in-scope companies must publish a
+ … [Postponed]
+DESCRIPTION:Financial years starting from this date: in-scope companies mus
+ t publish a yearly statement on their due diligence (Article 16).\n\nCompa
+ nies in CSDDD scope\n\nhttps://autoregix.com/en/deadlines/#csddd-2030-01-0
+ 1-0
+URL:https://autoregix.com/en/deadlines/#csddd-2030-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:accessibilityAct-2030-06-28-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300628
+DTEND;VALUE=DATE:20300629
+SUMMARY:European Accessibility Act\, Directive (EU) 2019/882: End of the tr
+ ansition period: service contracts agreed before 28 June 2025 can no long
+ …
+DESCRIPTION:End of the transition period: service contracts agreed before 2
+ 8 June 2025 can no longer continue unchanged\, and service providers can n
+ o longer rely on products lawfully used before that date.\n\nProviders of 
+ covered services.\n\nArticle 32(1). Self-service terminals may run up to 2
+ 0 years after entry into use where the EU country allows it (Article 32(2)
+ ).\n\nhttps://autoregix.com/en/deadlines/#accessibilityAct-2030-06-28-0
+URL:https://autoregix.com/en/deadlines/#accessibilityAct-2030-06-28-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2030-07-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:VAT in the Digital Age Directive (EU) 2025/516: Structured e-invoic
+ es within 10 days and digital reporting of each transaction become manda
+ …
+DESCRIPTION:Structured e-invoices within 10 days and digital reporting of e
+ ach transaction become mandatory for sales between businesses in different
+  EU countries; recapitulative statements end.\n\nAll VAT-registered busine
+ sses with cross-border B2B sales or purchases in the EU\n\nArticle 5 of Di
+ rective (EU) 2025/516. European standard EN 16931.\n\nhttps://autoregix.co
+ m/en/deadlines/#vidaDirective-2030-07-01-0
+URL:https://autoregix.com/en/deadlines/#vidaDirective-2030-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espr-2030-07-19-64-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300719
+DTEND;VALUE=DATE:20300720
+SUMMARY:Ecodesign for Sustainable Products Regulation (EU) 2024/1781: Destr
+ uction ban and unsold-goods disclosure extend to medium-sized enterprise
+ …
+DESCRIPTION:Destruction ban and unsold-goods disclosure extend to medium-si
+ zed enterprises.\n\nMedium-sized enterprises\n\nhttps://autoregix.com/en/d
+ eadlines/#espr-2030-07-19-64
+URL:https://autoregix.com/en/deadlines/#espr-2030-07-19-64
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:toysnew-2030-08-01-65-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300801
+DTEND;VALUE=DATE:20300802
+SUMMARY:Toy Safety Regulation (EU) 2025/2509: Regulation applies in full (n
+ ew chemical bans\, digital product passport); Directive 2009/48/EC repeal
+ …
+DESCRIPTION:Regulation applies in full (new chemical bans\, digital product
+  passport); Directive 2009/48/EC repealed.\n\nToy manufacturers\, importer
+ s\, distributors\, online marketplaces\n\nToys placed on the market under 
+ the Directive before this date may still be sold; old EC type-examination 
+ certificates valid until 1 Feb 2031.\n\nhttps://autoregix.com/en/deadlines
+ /#toysnew-2030-08-01-65
+URL:https://autoregix.com/en/deadlines/#toysnew-2030-08-01-65
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiAct-2030-08-02-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300802
+DTEND;VALUE=DATE:20300803
+SUMMARY:AI Act (EU) 2024/1689: High-risk AI systems intended for public aut
+ horities that were placed on the market before the high-risk rules appli
+ …
+DESCRIPTION:High-risk AI systems intended for public authorities that were 
+ placed on the market before the high-risk rules applied must comply (Artic
+ le 111(2)).\n\nProviders and deployers of high-risk AI used by public auth
+ orities\n\nhttps://autoregix.com/en/deadlines/#aiAct-2030-08-02-0
+URL:https://autoregix.com/en/deadlines/#aiAct-2030-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:payTransparency-2031-06-07-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20310607
+DTEND;VALUE=DATE:20310608
+SUMMARY:Pay Transparency Directive (EU) 2023/970: First gender pay gap repo
+ rt due\, covering 2030.
+DESCRIPTION:First gender pay gap report due\, covering 2030.\n\nEmployers w
+ ith 100 to 149 workers\n\nEvery three years from then.\n\nhttps://autoregi
+ x.com/en/deadlines/#payTransparency-2031-06-07-0
+URL:https://autoregix.com/en/deadlines/#payTransparency-2031-06-07-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gdpr-2031-12-27-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20311227
+DTEND;VALUE=DATE:20311228
+SUMMARY:General Data Protection Regulation (EU) 2016/679: The UK adequacy d
+ ecisions expire unless renewed.
+DESCRIPTION:The UK adequacy decisions expire unless renewed.\n\nBusinesses 
+ transferring personal data from the EU to the UK\n\nhttps://autoregix.com/
+ en/deadlines/#gdpr-2031-12-27-0
+URL:https://autoregix.com/en/deadlines/#gdpr-2031-12-27-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:customsReform-2034-03-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20340301
+DTEND;VALUE=DATE:20340302
+SUMMARY:New Union Customs Code and EU Customs Authority\, Regulation (EU) 2
+ 026/2108: The EU Customs Data Hub becomes mandatory for all importers\, ex
+ …
+DESCRIPTION:The EU Customs Data Hub becomes mandatory for all importers\, e
+ xporters and transit holders; voluntary use starts on 1 March 2031.\n\nAll
+  importers and exporters\n\nhttps://autoregix.com/en/deadlines/#customsRef
+ orm-2034-03-01-0
+URL:https://autoregix.com/en/deadlines/#customsReform-2034-03-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2035-01-01-0-en@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+SUMMARY:VAT in the Digital Age Directive (EU) 2025/516: EU countries that h
+ ad a domestic real-time reporting system before 2024 must have aligned t
+ …
+DESCRIPTION:EU countries that had a domestic real-time reporting system bef
+ ore 2024 must have aligned their domestic e-invoicing and reporting with t
+ he EU rules.\n\nBusinesses in countries with existing domestic real-time r
+ eporting systems\n\nArticle 6(5) of Directive (EU) 2025/516. The Commissio
+ n reports by 31 March 2033 and may propose a later date.\n\nhttps://autore
+ gix.com/en/deadlines/#vidaDirective-2035-01-01-0
+URL:https://autoregix.com/en/deadlines/#vidaDirective-2035-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1936 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Autoregix//EU compliance deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EU-Compliance-Fristen
+X-WR-CALDESC:Termine\, ab denen EU-Regeln gelten\, in zeitlicher Reihenfolg
+ e\, mit gekennzeichneten Verschiebungen und Link zum jeweiligen Gesetzeste
+ xt. Nach Thema filterbar.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:gdpr-2025-12-19-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Datenschutz-Grundverordnung (EU) 2016/679: Die Kommission hat die A
+ ngemessenheitsbeschlüsse für das Vereinigte Königreich verlängert\, g
+ ülti…
+DESCRIPTION:Die Kommission hat die Angemessenheitsbeschlüsse für das Vere
+ inigte Königreich verlängert\, gültig bis zum 27. Dezember 2031.\n\nUnt
+ ernehmen\, die personenbezogene Daten aus der EU in das Vereinigte Königr
+ eich übermitteln\n\nhttps://autoregix.com/de/fristen/#gdpr-2025-12-19-0
+URL:https://autoregix.com/de/fristen/#gdpr-2025-12-19-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:craProducts-2025-12-21-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:Kategorien wichtiger und kritischer Produkte\, Durchführungsverord
+ nung (EU) 2025/2392: Die Durchführungsverordnung (EU) 2025/2392 ist in Kr
+ a…
+DESCRIPTION:Die Durchführungsverordnung (EU) 2025/2392 ist in Kraft getret
+ en\, mit den technischen Beschreibungen der Kategorien wichtiger (Anhang I
+ II) und kritischer (Anhang IV) Produkte nach der Cyberresilienz-Verordnung
+ .\n\nHersteller von Produkten wie Browsern\, Passwortmanagern\, Routern\, 
+ Betriebssystemen\, Firewalls und Chipkarten\n\nVeröffentlicht am 1. Dezem
+ ber 2025; in Kraft am zwanzigsten Tag nach der Veröffentlichung.\n\nhttps
+ ://autoregix.com/de/fristen/#craProducts-2025-12-21-0
+URL:https://autoregix.com/de/fristen/#craProducts-2025-12-21-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2026-01-01-5-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:CBAM-Verordnung (EU) 2023/956: Beginn der endgültigen Phase: Nur z
+ ugelassene CBAM-Anmelder dürfen CBAM-Waren oberhalb der neuen Mengenschwe
+ …
+DESCRIPTION:Beginn der endgültigen Phase: Nur zugelassene CBAM-Anmelder d
+ ürfen CBAM-Waren oberhalb der neuen Mengenschwelle von 50 Tonnen pro Jahr
+  einführen.\n\nImporteure von Eisen\, Stahl\, Aluminium\, Zement\, Dünge
+ mitteln (für Wasserstoff und Strom gilt keine Schwelle)\n\nDie De-minimis
+ -Schwelle von 50 t ersetzt die frühere Sendungsregel von 150 EUR (Verordn
+ ung (EU) 2025/2083).\n\nhttps://autoregix.com/de/fristen/#cbam-2026-01-01-
+ 5
+URL:https://autoregix.com/de/fristen/#cbam-2026-01-01-5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cprnew-2026-01-08-7-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Bauproduktenverordnung (EU) 2024/3110: Hauptgeltungsbeginn der neue
+ n CPR.
+DESCRIPTION:Hauptgeltungsbeginn der neuen CPR.\n\nHersteller\, Importeure u
+ nd Händler von Bauprodukten\n\nDie Pflichten der Wirtschaftsakteure greif
+ en je Produktfamilie erst ein Jahr\, nachdem eine neue harmonisierte Spezi
+ fikation verbindlich geworden ist; bis dahin gilt die Verordnung (EU) Nr. 
+ 305/2011 parallel weiter.\n\nhttps://autoregix.com/de/fristen/#cprnew-2026
+ -01-08-7
+URL:https://autoregix.com/de/fristen/#cprnew-2026-01-08-7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2026-03-31-9-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:CBAM-Verordnung (EU) 2023/956: Frist für den Antrag auf den Status
+  als zugelassener Anmelder\, um vorläufig weiter einführen zu dürfen\, 
+ sola…
+DESCRIPTION:Frist für den Antrag auf den Status als zugelassener Anmelder\
+ , um vorläufig weiter einführen zu dürfen\, solange der Antrag geprüft
+  wird.\n\nImporteure und indirekte Zollvertreter oberhalb von 50 t\n\nhttp
+ s://autoregix.com/de/fristen/#cbam-2026-03-31-9
+URL:https://autoregix.com/de/fristen/#cbam-2026-03-31-9
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2026-04-10-10-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Verordnung (EU) 2024/2462 (PFHxA): PFHxA-Verbot in Feuerlöschschä
+ umen und Schaumkonzentraten für Ausbildung und Tests sowie für öffentli
+ che…
+DESCRIPTION:PFHxA-Verbot in Feuerlöschschäumen und Schaumkonzentraten fü
+ r Ausbildung und Tests sowie für öffentliche Feuerwehren (mit Ausnahme f
+ ür Seveso-Standorte).\n\nLieferanten und Verwender von Feuerlöschschäum
+ en\n\nGrenzwerte: 25 ppb PFHxA und Salze\, 1000 ppb verwandte Stoffe.\n\nh
+ ttps://autoregix.com/de/fristen/#pfhxa-2026-04-10-10
+URL:https://autoregix.com/de/fristen/#pfhxa-2026-04-10-10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:red-2026-04-28-11-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Funkanlagenrichtlinie 2014/53/EU: Regeln zu USB-C-Ladegerät und Ve
+ rkauf ohne Ladegerät erfassen auch Laptops.
+DESCRIPTION:Regeln zu USB-C-Ladegerät und Verkauf ohne Ladegerät erfassen
+  auch Laptops.\n\nHersteller\, Importeure und Händler von Laptops\n\nTele
+ fone\, Tablets\, Kameras\, Kopfhörer und die übrigen aufgeführten Kateg
+ orien sind seit dem 28. Dezember 2024 erfasst.\n\nhttps://autoregix.com/de
+ /fristen/#red-2026-04-28-11
+URL:https://autoregix.com/de/fristen/#red-2026-04-28-11
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dma-2026-04-28-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Gesetz über digitale Märkte\, Verordnung (EU) 2022/1925: Die Komm
+ ission hat die erste Überprüfung des Gesetzes über digitale Märkte ver
+ öffen…
+DESCRIPTION:Die Kommission hat die erste Überprüfung des Gesetzes über d
+ igitale Märkte veröffentlicht (COM(2026) 178). Sie hat keine Änderung d
+ es Gesetzes vorgeschlagen.\n\nTorwächter und ihre gewerblichen Nutzer.\n\
+ nDie nächste Überprüfung ist nach Artikel 53 drei Jahre später fällig
+ .\n\nhttps://autoregix.com/de/fristen/#dma-2026-04-28-0
+URL:https://autoregix.com/de/fristen/#dma-2026-04-28-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mercosurInterim-2026-05-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Interims-Handelsabkommen EU-Mercosur\, Beschluss (EU) 2026/183 des 
+ Rates: Das Interims-Handelsabkommen EU-Mercosur wird vorläufig angewendet
+ .
+DESCRIPTION:Das Interims-Handelsabkommen EU-Mercosur wird vorläufig angewe
+ ndet.\n\nAusführer und Einführer im Handel mit Argentinien\, Brasilien\,
+  Paraguay und Uruguay\n\nNicht förmlich in Kraft. Das Gutachtenverfahren 
+ 1/26 und die Rechtssache C-460/26 sind beim Gerichtshof anhängig; das Par
+ lament hat über die Zustimmung noch nicht abgestimmt.\n\nhttps://autoregi
+ x.com/de/fristen/#mercosurInterim-2026-05-01-0
+URL:https://autoregix.com/de/fristen/#mercosurInterim-2026-05-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:talentPool-2026-06-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Verordnung über den EU-Talentpool (EU) 2026/1047: Die Verordnung 
+ über den EU-Talentpool ist in Kraft getreten.
+DESCRIPTION:Die Verordnung über den EU-Talentpool ist in Kraft getreten.\n
+ \nArbeitsuchende außerhalb der EU und Arbeitgeber in teilnehmenden EU-Lä
+ ndern\n\nDie Teilnahme der Länder ist freiwillig. Nach Angaben von EURES 
+ soll die Plattform bis 2027 voll funktionsfähig sein.\n\nhttps://autoregi
+ x.com/de/fristen/#talentPool-2026-06-01-0
+URL:https://autoregix.com/de/fristen/#talentPool-2026-06-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:payTransparency-2026-06-07-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Entgelttransparenzrichtlinie (EU) 2023/970: Frist für die EU-Länd
+ er\, die Entgelttransparenzrichtlinie in nationales Recht umzusetzen.
+DESCRIPTION:Frist für die EU-Länder\, die Entgelttransparenzrichtlinie in
+  nationales Recht umzusetzen.\n\nAlle Arbeitgeber in der EU\n\nDie meisten
+  Länder haben die Frist versäumt. Der Termin wurde nicht verschoben. Die
+  Anwendungsdaten hängen vom nationalen Recht ab.\n\nhttps://autoregix.com
+ /de/fristen/#payTransparency-2026-06-07-0
+URL:https://autoregix.com/de/fristen/#payTransparency-2026-06-07-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2026-06-11-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Cyberresilienz-Verordnung (EU) 2024/2847: Die Vorschriften der Cybe
+ rresilienz-Verordnung über die Notifizierung von Konformitätsbewertungss
+ …
+DESCRIPTION:Die Vorschriften der Cyberresilienz-Verordnung über die Notifi
+ zierung von Konformitätsbewertungsstellen (Kapitel IV) gelten.\n\nEU-Län
+ der und Konformitätsbewertungsstellen\n\nhttps://autoregix.com/de/fristen
+ /#cra-2026-06-11-0
+URL:https://autoregix.com/de/fristen/#cra-2026-06-11-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:consumerRights-2026-06-19-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Verbraucherrechterichtlinie 2011/83/EU: Die EU-Länder müssen die 
+ Online-Widerrufsfunktion anwenden: Online geschlossene Verträge benötige
+ n…
+DESCRIPTION:Die EU-Länder müssen die Online-Widerrufsfunktion anwenden: O
+ nline geschlossene Verträge benötigen eine Funktion mit der Beschriftung
+  „Vertrag widerrufen“ oder einer eindeutigen gleichwertigen Formulieru
+ ng.\n\nUnternehmer\, die über eine Website oder App Fernabsatzverträge m
+ it Verbrauchern schließen.\n\nArtikel 11a\, eingefügt durch die Richtlin
+ ie (EU) 2023/2673.\n\nhttps://autoregix.com/de/fristen/#consumerRights-202
+ 6-06-19-0
+URL:https://autoregix.com/de/fristen/#consumerRights-2026-06-19-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:parcels-2026-07-01-13-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Verordnung (EU) 2026/382 (Zoll auf Kleinsendungen): Die Zollbefreiu
+ ng bis 150 EUR endet; für Sendungen bis 150 EUR\, die an Verbraucher verk
+ …
+DESCRIPTION:Die Zollbefreiung bis 150 EUR endet; für Sendungen bis 150 EUR
+ \, die an Verbraucher verkauft werden\, gilt bis zum 1. Juli 2028 ein paus
+ chaler Zoll von 3 EUR je Warenposition\, mit oder ohne IOSS.\n\nVerkäufer
+  und Marktplätze außerhalb der EU\, die direkt an Verbraucher in der EU 
+ versenden; IOSS-Vermittler\n\nErlassen am 11. Februar 2026. Eine Warenposi
+ tion umfasst alle Waren der Sendung mit derselben zolltariflichen Einreihu
+ ng\, Beschreibung und demselben Ursprung: Fünf T-Shirts sind eine Warenpo
+ sition.\n\nhttps://autoregix.com/de/fristen/#parcels-2026-07-01-13
+URL:https://autoregix.com/de/fristen/#parcels-2026-07-01-13
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usTariffAdjustment-2026-07-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Zölle und Zollkontingente für US-Waren\, Verordnung (EU) 2026/145
+ 5: Die EU wendet bis zum 31. Dezember 2029 einen Zollsatz von 0 % auf die 
+ i…
+DESCRIPTION:Die EU wendet bis zum 31. Dezember 2029 einen Zollsatz von 0 % 
+ auf die in Anhang I aufgeführten Waren mit Ursprung in den USA an und er
+ öffnet Zollkontingente für aufgeführte Agrar- und Fischereierzeugnisse 
+ aus den USA.\n\nEinführer in der EU von Waren mit Ursprung in den Vereini
+ gten Staaten\n\nDie Kommission kann die Zollsenkungen aussetzen (Artikel 3
+ ).\n\nhttps://autoregix.com/de/fristen/#usTariffAdjustment-2026-07-01-0
+URL:https://autoregix.com/de/fristen/#usTariffAdjustment-2026-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:steelMeasure-2026-07-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Zollkontingente für Stahl\, Verordnung (EU) 2026/1384: Zollkonting
+ ente für Stahl ersetzen die bisherige Schutzmaßnahme; für Stahl\, der a
+ ußer…
+DESCRIPTION:Zollkontingente für Stahl ersetzen die bisherige Schutzmaßnah
+ me; für Stahl\, der außerhalb der Kontingente eingeführt wird\, fällt 
+ ein Zoll von 50 % an.\n\nEinführer der Stahlwarenkategorien in Anhang I\,
+  aus allen Ländern außer Island\, Liechtenstein und Norwegen\n\nEinführ
+ er müssen das Land des Erschmelzens und Gießens nachweisen (Artikel 4).\
+ n\nhttps://autoregix.com/de/fristen/#steelMeasure-2026-07-01-0
+URL:https://autoregix.com/de/fristen/#steelMeasure-2026-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espr-2026-07-19-14-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Ökodesign-Verordnung für nachhaltige Produkte (EU) 2024/1781: Das
+  Verbot\, unverkaufte Bekleidung\, Bekleidungszubehör und Schuhe zu verni
+ cht…
+DESCRIPTION:Das Verbot\, unverkaufte Bekleidung\, Bekleidungszubehör und S
+ chuhe zu vernichten (Anhang VII)\, gilt für große Unternehmen; Ausnahmen
+  regelt die Delegierte Verordnung (EU) 2026/296.\n\nGroße Unternehmen (Kl
+ einst- und Kleinunternehmen befreit)\n\nhttps://autoregix.com/de/fristen/#
+ espr-2026-07-19-14
+URL:https://autoregix.com/de/fristen/#espr-2026-07-19-14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espr-2026-07-19-15-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Ökodesign-Verordnung für nachhaltige Produkte (EU) 2024/1781: Die
+  Kommission richtet das Register für den digitalen Produktpass ein. Eine 
+ T…
+DESCRIPTION:Die Kommission richtet das Register für den digitalen Produktp
+ ass ein. Eine Testumgebung ging am 20. Juli 2026 in Betrieb.\n\nKommission
+ ; später alle Wirtschaftsakteure mit Produkten mit DPP\, zuerst Batterien
+ \n\nhttps://autoregix.com/de/fristen/#espr-2026-07-19-15
+URL:https://autoregix.com/de/fristen/#espr-2026-07-19-15
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bpa-2026-07-20-16-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Verordnung (EU) 2024/3190 (Bisphenol A): Hauptübergangsfrist abgel
+ aufen: Die meisten mit BPA und anderen gefährlichen Bisphenolen hergestel
+ …
+DESCRIPTION:Hauptübergangsfrist abgelaufen: Die meisten mit BPA und andere
+ n gefährlichen Bisphenolen hergestellten Lebensmittelkontaktgegenstände 
+ dürfen nicht mehr erstmals in Verkehr gebracht werden.\n\nHersteller und 
+ Importeure von beschichteten Dosen\, Verpackungen\, Küchenware\, Lebensmi
+ ttelgeräten\n\nFür einige Verwendungen und für bereits in Verkehr gebra
+ chte Mehrweggegenstände gelten längere Übergangsfristen.\n\nhttps://aut
+ oregix.com/de/fristen/#bpa-2026-07-20-16
+URL:https://autoregix.com/de/fristen/#bpa-2026-07-20-16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2026-07-27-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Verordnung (EU) 2026/1744 (Digitaler Omnibus zur KI): Die Verordnun
+ g (EU) 2026/1744 tritt in Kraft: Hochrisiko-Vorschriften verschoben\, Art
+ …
+DESCRIPTION:Die Verordnung (EU) 2026/1744 tritt in Kraft: Hochrisiko-Vorsch
+ riften verschoben\, Artikel 4 neu gefasst\, neuer Artikel 4a zu Daten für
+  die Erkennung von Verzerrungen\, Erleichterungen auf kleine Midcap-Untern
+ ehmen ausgeweitet.\n\nAlle Akteure nach der KI-Verordnung\n\nAm 24. Juli 2
+ 026 im Amtsblatt veröffentlicht.\n\nhttps://autoregix.com/de/fristen/#aiO
+ mnibus-2026-07-27-0
+URL:https://autoregix.com/de/fristen/#aiOmnibus-2026-07-27-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:r2r-2026-07-31-17-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Richtlinie zum Recht auf Reparatur (EU) 2024/1799: Umsetzungsfrist 
+ und Geltungsbeginn: Reparaturpflicht für aufgeführte Waren\, Formular f
+ ür…
+DESCRIPTION:Umsetzungsfrist und Geltungsbeginn: Reparaturpflicht für aufge
+ führte Waren\, Formular für Reparaturinformationen\, Verlängerung der G
+ ewährleistung um 12 Monate nach einer Reparatur.\n\nHersteller von Waren 
+ nach Anhang II\, Verkäufer\, Reparaturbetriebe\n\nDie Delegierte Richtlin
+ ie (EU) 2026/74 hat Einzelraumheizgeräte für den Haushalt mit demselben 
+ Datum in Anhang II aufgenommen.\n\nhttps://autoregix.com/de/fristen/#r2r-2
+ 026-07-31-17
+URL:https://autoregix.com/de/fristen/#r2r-2026-07-31-17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiAct-2026-08-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:KI-Verordnung (EU) 2024/1689: Allgemeiner Geltungsbeginn: Die Trans
+ parenzpflichten des Artikels 50 gelten\, und das KI-Büro kann die Regeln
+ …
+DESCRIPTION:Allgemeiner Geltungsbeginn: Die Transparenzpflichten des Artike
+ ls 50 gelten\, und das KI-Büro kann die Regeln für KI-Modelle mit allgem
+ einem Verwendungszweck durchsetzen.\n\nAnbieter von Chatbots und generativ
+ er KI; Betreiber von Deepfakes\, Emotionserkennung und KI-Texten von öffe
+ ntlichem Interesse; Modellanbieter\n\nDie Hochrisiko-Vorschriften\, die ur
+ sprünglich ab diesem Datum gelten sollten\, wurden verschoben.\n\nhttps:/
+ /autoregix.com/de/fristen/#aiAct-2026-08-02-0
+URL:https://autoregix.com/de/fristen/#aiAct-2026-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usRebalancingSuspension-2026-08-07-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Aussetzung der Gegenmaßnahmen für US-Waren\, Durchführungsverord
+ nung (EU) 2026/1893: Die Gegenmaßnahmen der EU für US-Waren bleiben ausg
+ eset… [Verschoben]
+DESCRIPTION:Die Gegenmaßnahmen der EU für US-Waren bleiben ausgesetzt\, o
+ hne Enddatum.\n\nEinführer in der EU der US-Waren\, die in der Durchführ
+ ungsverordnung (EU) 2025/1564 aufgeführt sind\n\nDie Kommission erklärt\
+ , sie könne die Maßnahmen wieder in Kraft setzen.\n\nhttps://autoregix.c
+ om/de/fristen/#usRebalancingSuspension-2026-08-07-0
+URL:https://autoregix.com/de/fristen/#usRebalancingSuspension-2026-08-07-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-18-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Die EU-Verpackungsverord
+ nung (PPWR) gilt allgemein; Richtlinie 94/62/EG aufgehoben (einige Besti
+ …
+DESCRIPTION:Die EU-Verpackungsverordnung (PPWR) gilt allgemein; Richtlinie 
+ 94/62/EG aufgehoben (einige Bestimmungen gelten bis 2028/2029 fort).\n\nEr
+ zeuger\, Importeure\, Händler\, Fulfilment-Dienstleister und Hersteller v
+ on Verpackungen\n\nNicht verschoben. Die im Umwelt-Omnibus vom Dezember 20
+ 25 vorgeschlagenen Änderungen sind nicht verabschiedet.\n\nhttps://autore
+ gix.com/de/fristen/#ppwr-2026-08-12-18
+URL:https://autoregix.com/de/fristen/#ppwr-2026-08-12-18
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-19-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): PFAS-Grenzwerte für Leb
+ ensmittelkontaktverpackungen gelten (Art. 5 Abs. 5): 25 ppb je gezielt ge
+ …
+DESCRIPTION:PFAS-Grenzwerte für Lebensmittelkontaktverpackungen gelten (Ar
+ t. 5 Abs. 5): 25 ppb je gezielt gemessenem PFAS\, 250 ppb in Summe\, 50 pp
+ m Gesamt-PFAS.\n\nAlle\, die Lebensmittelkontaktverpackungen in der EU in 
+ Verkehr bringen\n\nDer Summengrenzwert von 100 mg/kg für Blei\, Cadmium\,
+  Quecksilber und sechswertiges Chrom (Art. 5 Abs. 4) gilt ab demselben Dat
+ um.\n\nhttps://autoregix.com/de/fristen/#ppwr-2026-08-12-19
+URL:https://autoregix.com/de/fristen/#ppwr-2026-08-12-19
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-20-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Erzeuger müssen eine Ko
+ nformitätsbewertung durchführen\, technische Unterlagen bereithalten und
+  e…
+DESCRIPTION:Erzeuger müssen eine Konformitätsbewertung durchführen\, tec
+ hnische Unterlagen bereithalten und eine EU-Konformitätserklärung ausste
+ llen (Art. 15\, 38\, 39\, Anhang VII/VIII).\n\nErzeuger von Verpackungen; 
+ Importeure und Händler müssen dies überprüfen\n\nDie Erklärung erfass
+ t die Artikel 5 bis 12 nur\, soweit die jeweilige Anforderung bereits gilt
+ ; für mehrere Anforderungen fehlen noch die nachgeordneten Rechtsakte.\n\
+ nhttps://autoregix.com/de/fristen/#ppwr-2026-08-12-20
+URL:https://autoregix.com/de/fristen/#ppwr-2026-08-12-20
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2026-08-12-21-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Die Regeln zu Hersteller
+ registrierung\, EPR und Bevollmächtigtem (Art. 44\, 45) gelten; Herstelle
+ r… [Änderung vorgeschlagen]
+DESCRIPTION:Die Regeln zu Herstellerregistrierung\, EPR und Bevollmächtigt
+ em (Art. 44\, 45) gelten; Hersteller registrieren sich in jedem Mitgliedst
+ aat\, in dem sie Verpackungen erstmals bereitstellen.\n\nHersteller\, auch
+  Fernabsatzhändler mit Verkauf in andere Mitgliedstaaten; Online-Plattfor
+ men\n\nDer Rechtsakt zum Registerformat lag im August 2026 erst als Entwur
+ f vor\, und die nationalen Register sind 18 Monate nach seinem Inkrafttret
+ en fällig. Ein Vorschlag\, die Pflicht zum Bevollmächtigten bis 2035 aus
+ zusetzen\, ist nicht verabschiedet.\n\nhttps://autoregix.com/de/fristen/#p
+ pwr-2026-08-12-21
+URL:https://autoregix.com/de/fristen/#ppwr-2026-08-12-21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2026-08-18-22-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Batterieverordnung (EU) 2023/1542: Kennzeichnung mit allgemeinen An
+ gaben\, Kapazität und Betriebsdauer (Art. 13 Abs. 1 bis 3); rechtlicher S
+ … [Verschoben]
+DESCRIPTION:Kennzeichnung mit allgemeinen Angaben\, Kapazität und Betriebs
+ dauer (Art. 13 Abs. 1 bis 3); rechtlicher Stichtag ist der 18. August 2026
+  oder 18 Monate nach Inkrafttreten des Durchführungsrechtsakts zur Kennze
+ ichnung\, je nachdem\, was später ist.\n\nHersteller und Importeure aller
+  Batterien\n\nDer Durchführungsrechtsakt war am 18. August 2025 fällig u
+ nd zum Zeitpunkt der Prüfung nicht veröffentlicht; die Kennzeichnung beg
+ innt daher etwa 18 Monate nach seiner Veröffentlichung.\n\nhttps://autore
+ gix.com/de/fristen/#batteries-2026-08-18-22
+URL:https://autoregix.com/de/fristen/#batteries-2026-08-18-22
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2026-09-11-23-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Cyberresilienz-Verordnung (EU) 2024/2847: Hersteller müssen aktiv 
+ ausgenutzte Schwachstellen und schwerwiegende Sicherheitsvorfälle über d
+ i…
+DESCRIPTION:Hersteller müssen aktiv ausgenutzte Schwachstellen und schwerw
+ iegende Sicherheitsvorfälle über die einheitliche Meldeplattform melden 
+ (Art. 14)\, auch für Produkte\, die bereits auf dem Markt sind.\n\nHerste
+ ller von Produkten mit digitalen Elementen\n\nNicht verschoben.\n\nhttps:/
+ /autoregix.com/de/fristen/#cra-2026-09-11-23
+URL:https://autoregix.com/de/fristen/#cra-2026-09-11-23
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dataAct-2026-09-12-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Datenverordnung (EU) 2023/2854 (Data Act): Vernetzte Produkte und v
+ erbundene Dienste\, die nach diesem Datum in Verkehr gebracht werden\, mü
+ s…
+DESCRIPTION:Vernetzte Produkte und verbundene Dienste\, die nach diesem Dat
+ um in Verkehr gebracht werden\, müssen so konzipiert sein\, dass Produktd
+ aten für den Nutzer direkt zugänglich sind (Artikel 3 Absatz 1).\n\nHers
+ teller vernetzter Produkte und Anbieter verbundener Dienste\n\nhttps://aut
+ oregix.com/de/fristen/#dataAct-2026-09-12-0
+URL:https://autoregix.com/de/fristen/#dataAct-2026-09-12-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vsmeStandard-2026-09-24-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Freiwilliger Berichtsstandard und Obergrenze für die Wertschöpfun
+ gskette\, Delegierte Verordnung (EU) 2026/1560: Der freiwillige EU-Standar
+ d…
+DESCRIPTION:Der freiwillige EU-Standard für die Nachhaltigkeitsberichterst
+ attung (auf Grundlage des VSME) tritt in Kraft und kann von jedem Unterneh
+ men außerhalb des Anwendungsbereichs der CSRD genutzt werden.\n\nUnterneh
+ men\, die nicht der verpflichtenden CSRD-Berichterstattung unterliegen\, i
+ nsbesondere solche mit bis zu 1.000 Beschäftigten\n\nVeröffentlicht am 2
+ 1. September 2026; in Kraft am dritten Tag nach der Veröffentlichung (Art
+ ikel 4). Die Obergrenze für die Wertschöpfungskette selbst gilt für Ges
+ chäftsjahre\, die am oder nach dem 1. Januar 2027 beginnen.\n\nhttps://au
+ toregix.com/de/fristen/#vsmeStandard-2026-09-24-0
+URL:https://autoregix.com/de/fristen/#vsmeStandard-2026-09-24-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecgt-2026-09-27-24-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Richtlinie (EU) 2024/825 (Stärkung der Verbraucher für den ökolo
+ gischen Wandel): Nationale Vorschriften gelten: Verbot allgemeiner Umwelta
+ u…
+DESCRIPTION:Nationale Vorschriften gelten: Verbot allgemeiner Umweltaussage
+ n ohne Nachweis\, von Neutralitätsaussagen auf Kompensationsbasis und von
+  unzertifizierten Nachhaltigkeitssiegeln; neue Informationen zu Haltbarkei
+ t und Gewährleistung.\n\nAlle Unternehmer mit Verkauf an Verbraucher in d
+ er EU\n\nNicht verschoben.\n\nhttps://autoregix.com/de/fristen/#ecgt-2026-
+ 09-27-24
+URL:https://autoregix.com/de/fristen/#ecgt-2026-09-27-24
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2026-10-10-25-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Verordnung (EU) 2024/2462 (PFHxA): PFHxA-Verbot in Textilien\, Lede
+ r\, Pelzen und Häuten in Bekleidung und zugehörigem Zubehör für die br
+ eite…
+DESCRIPTION:PFHxA-Verbot in Textilien\, Leder\, Pelzen und Häuten in Bekle
+ idung und zugehörigem Zubehör für die breite Öffentlichkeit sowie in S
+ chuhen für die breite Öffentlichkeit.\n\nHersteller\, Importeure und Ein
+ zelhändler von Bekleidung\, Zubehör und Schuhen für Verbraucher\n\nGren
+ zwerte: 25 ppb PFHxA und Salze\, 1000 ppb verwandte Stoffe. Vor diesem Dat
+ um in Verkehr gebrachte Artikel sind nicht erfasst. PSA der Kategorie III\
+ , Medizinprodukte und Bautextilien sind ausgenommen.\n\nhttps://autoregix.
+ com/de/fristen/#pfhxa-2026-10-10-25
+URL:https://autoregix.com/de/fristen/#pfhxa-2026-10-10-25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2026-10-10-26-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Verordnung (EU) 2024/2462 (PFHxA): PFHxA-Verbot in Lebensmittelkont
+ aktmaterialien aus Papier und Karton\, in Gemischen für die breite Öffen
+ t…
+DESCRIPTION:PFHxA-Verbot in Lebensmittelkontaktmaterialien aus Papier und K
+ arton\, in Gemischen für die breite Öffentlichkeit und in kosmetischen M
+ itteln.\n\nHersteller und Importeure von Papier-Lebensmittelverpackungen\,
+  Verbrauchergemischen\, Kosmetika\n\nGrenzwerte: 25 ppb PFHxA und Salze\, 
+ 1000 ppb verwandte Stoffe. Vor diesem Datum in Verkehr gebrachte Erzeugnis
+ se und Gemische sind nicht erfasst.\n\nhttps://autoregix.com/de/fristen/#p
+ fhxa-2026-10-10-26
+URL:https://autoregix.com/de/fristen/#pfhxa-2026-10-10-26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:digitalOmnibus-2026-10-21-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Vorschlag für den Digitalen Omnibus\, COM(2025) 837: Der Rat hat s
+ ein Verhandlungsmandat zum Digitalen Omnibus (DSGVO\, ePrivacy\, Datenvero
+ rd… [Änderung vorgeschlagen]
+DESCRIPTION:Der Rat hat sein Verhandlungsmandat zum Digitalen Omnibus (DSGV
+ O\, ePrivacy\, Datenverordnung) festgelegt.\n\nAlle Unternehmen\, die der 
+ DSGVO\, den Cookie-Regeln oder der Datenverordnung unterliegen\n\nDas Parl
+ ament hat seinen Standpunkt nicht angenommen; noch kein Trilog.\n\nhttps:/
+ /autoregix.com/de/fristen/#digitalOmnibus-2026-10-21-0
+URL:https://autoregix.com/de/fristen/#digitalOmnibus-2026-10-21-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:handlingFee-2026-11-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Bearbeitungsgebühr der Union\, Delegierte Verordnung (EU) 2026/215
+ 2: Für Waren\, die im Fernverkauf von außerhalb der EU verkauft werden\,
+  gil…
+DESCRIPTION:Für Waren\, die im Fernverkauf von außerhalb der EU verkauft 
+ werden\, gilt bei der Überlassung zum zollrechtlich freien Verkehr eine B
+ earbeitungsgebühr der Union von 2 EUR je Warenposition\, unabhängig vom 
+ Wert.\n\nVerkäufer außerhalb der EU\, Marktplätze\, IOSS-Inhaber und ih
+ re Zollvertreter; Beförderer\, die als Anmelder handeln\n\nArtikel 20 Abs
+ atz 2 der Verordnung (EU) 2026/2108 und Delegierte Verordnung (EU) 2026/21
+ 52. Sie fällt zusätzlich zum Zoll von 3 EUR an. Nicht erstattungsfähig.
+  Zum selben Datum wurden auch Produktkennungen je Warenposition in den Zol
+ ldaten verpflichtend (Delegierte Verordnung (EU) 2026/1022).\n\nhttps://au
+ toregix.com/de/fristen/#handlingFee-2026-11-01-0
+URL:https://autoregix.com/de/fristen/#handlingFee-2026-11-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:socialSecurityRevision-2026-11-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Überarbeitung der Koordinierung der Systeme der sozialen Sicherhei
+ t\, Verordnung (EU) 2026/2359: Die überarbeiteten Regeln zur Koordinierun
+ g…
+DESCRIPTION:Die überarbeiteten Regeln zur Koordinierung der Systeme der so
+ zialen Sicherheit sind in Kraft getreten.\n\nArbeitgeber und Arbeitnehmer\
+ , die in mehr als einem EU-Land tätig sind\n\nDie meisten Änderungen zum
+  anwendbaren Recht gelten ab dem 2. November 2028.\n\nhttps://autoregix.co
+ m/de/fristen/#socialSecurityRevision-2026-11-01-0
+URL:https://autoregix.com/de/fristen/#socialSecurityRevision-2026-11-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:esrsRevised-2026-11-10-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Überarbeitete Europäische Standards für die Nachhaltigkeitsberic
+ hterstattung\, Delegierte Verordnung (EU) 2026/1563: Die überarbeiteten\,
+  kür…
+DESCRIPTION:Die überarbeiteten\, kürzeren Europäischen Standards für di
+ e Nachhaltigkeitsberichterstattung treten in Kraft; für das Geschäftsjah
+ r 2026 sind sie freiwillig\, für Geschäftsjahre\, die am oder nach dem 1
+ . Januar 2027 beginnen\, verpflichtend.\n\nUnternehmen\, die nach der CSRD
+  berichten\n\nhttps://autoregix.com/de/fristen/#esrsRevised-2026-11-10-0
+URL:https://autoregix.com/de/fristen/#esrsRevised-2026-11-10-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:digitalFairnessAct-2026-11-11-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Vorschlag für ein Gesetz über digitale Fairness COM(2026) 1100: D
+ ie Kommission hat den Vorschlag für ein Gesetz über digitale Fairness (D
+ ig… [Änderung vorgeschlagen]
+DESCRIPTION:Die Kommission hat den Vorschlag für ein Gesetz über digitale
+  Fairness (Digital Fairness Act) veröffentlicht\, eine Verordnung\, die d
+ ie Richtlinie über unlautere Geschäftspraktiken ersetzen würde.\n\nAlle
+  Unternehmer\, die mit Verbrauchern in der EU Geschäfte machen\, einschli
+ eßlich Unternehmern außerhalb der EU.\n\nCOM(2026) 1100\, Verfahren 2026
+ /0356(COD). Nicht angenommen.\n\nhttps://autoregix.com/de/fristen/#digital
+ FairnessAct-2026-11-11-0
+URL:https://autoregix.com/de/fristen/#digitalFairnessAct-2026-11-11-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usTariffAdjustment-2026-12-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Zölle und Zollkontingente für US-Waren\, Verordnung (EU) 2026/145
+ 5: Frist für den Bericht der Kommission über die zolltarifliche Behandlu
+ ng…
+DESCRIPTION:Frist für den Bericht der Kommission über die zolltarifliche 
+ Behandlung von Stahl- und Aluminiumderivaten aus der EU durch die USA (Art
+ ikel 3 Absatz 2).\n\nAusführer von Stahl- und Aluminiumerzeugnissen aus d
+ er EU; Einführer von US-Waren der Kapitel 72\, 73 und 76\n\nhttps://autor
+ egix.com/de/fristen/#usTariffAdjustment-2026-12-01-0
+URL:https://autoregix.com/de/fristen/#usTariffAdjustment-2026-12-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2026-12-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Verordnung (EU) 2026/1744 (Digitaler Omnibus zur KI): Neue Verbote 
+ gelten für KI\, die nicht einvernehmliche intime Bilder identifizierbarer
+ …
+DESCRIPTION:Neue Verbote gelten für KI\, die nicht einvernehmliche intime 
+ Bilder identifizierbarer Personen oder Darstellungen sexuellen Kindesmissb
+ rauchs erzeugt (Artikel 5 Absatz 1 Buchstaben ba und bb).\n\nAnbieter und 
+ Betreiber generativer KI-Systeme\n\nhttps://autoregix.com/de/fristen/#aiOm
+ nibus-2026-12-02-0
+URL:https://autoregix.com/de/fristen/#aiOmnibus-2026-12-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2026-12-02-1-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Verordnung (EU) 2026/1744 (Digitaler Omnibus zur KI): Ende der vier
+ monatigen Übergangsfrist: Generative KI-Systeme\, die vor dem 2. August 2
+ …
+DESCRIPTION:Ende der viermonatigen Übergangsfrist: Generative KI-Systeme\,
+  die vor dem 2. August 2026 in Verkehr gebracht wurden\, müssen ihre Ausg
+ aben in maschinenlesbarer Form kennzeichnen (Artikel 50 Absatz 2\, Artikel
+  111 Absatz 4).\n\nAnbieter generativer KI-Systeme\n\nKeine Übergangsfris
+ t für Betreiber.\n\nhttps://autoregix.com/de/fristen/#aiOmnibus-2026-12-0
+ 2-1
+URL:https://autoregix.com/de/fristen/#aiOmnibus-2026-12-02-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:platformWork-2026-12-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Richtlinie über Plattformarbeit (EU) 2024/2831: Frist für die EU-
+ Länder\, die Richtlinie über Plattformarbeit in nationales Recht umzuset
+ zen…
+DESCRIPTION:Frist für die EU-Länder\, die Richtlinie über Plattformarbei
+ t in nationales Recht umzusetzen. Die gesetzliche Vermutung eines Arbeitsv
+ erhältnisses erfasst Vertragszeiträume ab diesem Tag.\n\nDigitale Arbeit
+ splattformen\, Vermittler und Personen\, die über Plattformen arbeiten\n\
+ nViele Länder hatten ihre Gesetze Mitte November 2026 noch nicht fertigge
+ stellt.\n\nhttps://autoregix.com/de/fristen/#platformWork-2026-12-02-0
+URL:https://autoregix.com/de/fristen/#platformWork-2026-12-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pld-2026-12-09-27-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Produkthaftungsrichtlinie (EU) 2024/2853: Umsetzungsfrist; die neue
+ n Regeln erfassen Produkte\, die ab diesem Datum in Verkehr gebracht oder
+ …
+DESCRIPTION:Umsetzungsfrist; die neuen Regeln erfassen Produkte\, die ab di
+ esem Datum in Verkehr gebracht oder in Betrieb genommen werden\, einschlie
+ ßlich Software.\n\nHersteller\, Importeure\, Bevollmächtigte\, Fulfilmen
+ t-Dienstleister\, Online-Plattformen\n\nDie Richtlinie 85/374/EWG gilt wei
+ ter für Produkte\, die vor diesem Datum in Verkehr gebracht wurden.\n\nht
+ tps://autoregix.com/de/fristen/#pld-2026-12-09-27
+URL:https://autoregix.com/de/fristen/#pld-2026-12-09-27
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eudr-2026-12-30-28-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Entwaldungsverordnung (EU) 2023/1115: Sorgfaltspflichten und Pflich
+ ten beim Inverkehrbringen gelten für große und mittlere Marktteilnehmer
+ … [Verschoben]
+DESCRIPTION:Sorgfaltspflichten und Pflichten beim Inverkehrbringen gelten f
+ ür große und mittlere Marktteilnehmer und Händler; die EU-Holzhandelsve
+ rordnung wird aufgehoben.\n\nGroße und mittlere Marktteilnehmer und Händ
+ ler von Rindern\, Kakao\, Kaffee\, Palmöl\, Kautschuk\, Soja\, Holzerzeug
+ nissen\n\nZweite Verschiebung: 30. Dezember 2024\, dann 30. Dezember 2025\
+ , jetzt 30. Dezember 2026 nach der Verordnung (EU) 2025/2650.\n\nhttps://a
+ utoregix.com/de/fristen/#eudr-2026-12-30-28
+URL:https://autoregix.com/de/fristen/#eudr-2026-12-30-28
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usTariffAdjustment-2026-12-31-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Zölle und Zollkontingente für US-Waren\, Verordnung (EU) 2026/145
+ 5: Stichtag: Erheben die USA dann noch mehr als 15 % auf Stahl- und Alumin
+ i…
+DESCRIPTION:Stichtag: Erheben die USA dann noch mehr als 15 % auf Stahl- un
+ d Aluminiumderivate aus der EU\, kann die Kommission den Zollsatz von 0 % 
+ für US-Waren der Kapitel 72\, 73 und 76 aussetzen.\n\nEinführer in der E
+ U von Stahl- und Aluminiumwaren aus den USA\n\nEine Befugnis\, keine autom
+ atische Aussetzung.\n\nhttps://autoregix.com/de/fristen/#usTariffAdjustmen
+ t-2026-12-31-0
+URL:https://autoregix.com/de/fristen/#usTariffAdjustment-2026-12-31-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vatDirective-2026-12-31-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Mehrwertsteuersystemrichtlinie 2006/112/EG: Die Möglichkeit der EU
+ -Länder\, nach Artikel 199a ein inländisches Reverse-Charge-Verfahren an
+ zu…
+DESCRIPTION:Die Möglichkeit der EU-Länder\, nach Artikel 199a ein inländ
+ isches Reverse-Charge-Verfahren anzuwenden (zum Beispiel für Mobiltelefon
+ e\, Emissionszertifikate\, Gas und Strom\, Metalle)\, läuft aus\, ebenso 
+ der Schnellreaktionsmechanismus.\n\nUnternehmen in den Branchen\, in denen
+  ein EU-Land das Reverse-Charge-Verfahren nach Artikel 199a anwendet\n\nDi
+ e Kommission hat am 1. Oktober 2026 vorgeschlagen\, beide bis zum 30. Juni
+  2030 zu verlängern (COM(2026) 515). Die Annahme durch den Rat war am 24.
+  November 2026 nicht bestätigt.\n\nhttps://autoregix.com/de/fristen/#vatD
+ irective-2026-12-31-0
+URL:https://autoregix.com/de/fristen/#vatDirective-2026-12-31-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2027-01-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Richtlinie zur Mehrwertsteuer im digitalen Zeitalter (EU) 2025/516:
+  Die ersten ViDA-Änderungen an den One-Stop-Shop-Regelungen gelten\, daru
+ …
+DESCRIPTION:Die ersten ViDA-Änderungen an den One-Stop-Shop-Regelungen gel
+ ten\, darunter die Nutzung der EU-Regelung für grenzüberschreitende Lief
+ erungen von Gas\, Strom\, Wärme und Kälte an Verbraucher.\n\nUnternehmen
+ \, die für OSS oder IOSS registriert sind; Energieversorger\n\nArtikel 2 
+ der Richtlinie (EU) 2025/516. Die EU-Länder müssen sie bis zum 31. Dezem
+ ber 2026 umsetzen.\n\nhttps://autoregix.com/de/fristen/#vidaDirective-2027
+ -01-01-0
+URL:https://autoregix.com/de/fristen/#vidaDirective-2027-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrdOmnibus-2027-01-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Richtlinie (EU) 2026/470 (vereinfachte Nachhaltigkeitsberichterstat
+ tung): Geschäftsjahre\, die ab diesem Datum beginnen: Unternehmen und Gru
+ … [Verschoben]
+DESCRIPTION:Geschäftsjahre\, die ab diesem Datum beginnen: Unternehmen und
+  Gruppen mit mehr als 450 Mio. EUR Nettoumsatzerlösen und mehr als 1.000 
+ Beschäftigten berichten nach der CSRD\, erste Berichte 2028; die Obergren
+ ze für die Wertschöpfungskette gilt.\n\nUnternehmen und Gruppen in der E
+ U über beiden Schwellenwerten; Emittenten an geregelten Märkten der EU 
+ über beiden Schwellenwerten\n\nDie zweite Welle war ursprünglich für da
+ s Geschäftsjahr 2025 vorgesehen und wurde durch die Richtlinie (EU) 2025/
+ 794 verschoben. Der Anwendungsbereich wurde anschließend durch die Richtl
+ inie (EU) 2026/470 verkleinert. Börsennotierte KMU wurden gestrichen.\n\n
+ https://autoregix.com/de/fristen/#csrdOmnibus-2027-01-01-0
+URL:https://autoregix.com/de/fristen/#csrdOmnibus-2027-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dataAct-2027-01-12-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Datenverordnung (EU) 2023/2854 (Data Act): Cloud-Anbieter dürfen k
+ eine Wechselentgelte mehr verlangen\, auch keine Datenextraktionsentgelte
+ …
+DESCRIPTION:Cloud-Anbieter dürfen keine Wechselentgelte mehr verlangen\, a
+ uch keine Datenextraktionsentgelte (Artikel 29).\n\nAnbieter von Datenvera
+ rbeitungsdiensten und ihre Kunden\n\nhttps://autoregix.com/de/fristen/#dat
+ aAct-2027-01-12-0
+URL:https://autoregix.com/de/fristen/#dataAct-2027-01-12-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:machinerynew-2027-01-20-30-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Maschinenverordnung (EU) 2023/1230: Die Maschinenverordnung gilt vo
+ llständig und ersetzt die Richtlinie 2006/42/EG.
+DESCRIPTION:Die Maschinenverordnung gilt vollständig und ersetzt die Richt
+ linie 2006/42/EG.\n\nHersteller\, Importeure und Händler von Maschinen un
+ d dazugehörigen Produkten\n\nNicht verschoben.\n\nhttps://autoregix.com/d
+ e/fristen/#machinerynew-2027-01-20-30
+URL:https://autoregix.com/de/fristen/#machinerynew-2027-01-20-30
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2027-02-01-31-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:CBAM-Verordnung (EU) 2023/956: Die Mitgliedstaaten beginnen\, CBAM-
+ Zertifikate über die gemeinsame zentrale Plattform zu verkaufen. [Verscho
+ ben]
+DESCRIPTION:Die Mitgliedstaaten beginnen\, CBAM-Zertifikate über die gemei
+ nsame zentrale Plattform zu verkaufen.\n\nZugelassene CBAM-Anmelder\n\nVom
+  1. Januar 2026 verschoben. Ab 2027 müssen Anmelder zu jedem Quartalsende
+  Zertifikate für 50 % der seit Jahresbeginn angefallenen grauen Emissione
+ n halten (bisher 80 %).\n\nhttps://autoregix.com/de/fristen/#cbam-2027-02-
+ 01-31
+URL:https://autoregix.com/de/fristen/#cbam-2027-02-01-31
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2027-02-12-32-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Take-away-Betriebe müss
+ en Verbrauchern erlauben\, für Getränke und zubereitete Speisen ein eige
+ ne…
+DESCRIPTION:Take-away-Betriebe müssen Verbrauchern erlauben\, für Geträn
+ ke und zubereitete Speisen ein eigenes Behältnis mitzubringen\, ohne Mehr
+ kosten (Art. 32).\n\nHORECA-Endvertreiber mit Take-away-Verkauf\n\nhttps:/
+ /autoregix.com/de/fristen/#ppwr-2027-02-12-32
+URL:https://autoregix.com/de/fristen/#ppwr-2027-02-12-32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-02-18-33-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Batterieverordnung (EU) 2023/1542: QR-Code auf allen Batterien (Art
+ . 13 Abs. 6).
+DESCRIPTION:QR-Code auf allen Batterien (Art. 13 Abs. 6).\n\nHersteller und
+  Importeure aller Batterien\n\nhttps://autoregix.com/de/fristen/#batteries
+ -2027-02-18-33
+URL:https://autoregix.com/de/fristen/#batteries-2027-02-18-33
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-02-18-34-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Batterieverordnung (EU) 2023/1542: Gerätebatterien in Produkten m
+ üssen vom Endnutzer entfernt und ausgetauscht werden können; LMT-Batteri
+ en…
+DESCRIPTION:Gerätebatterien in Produkten müssen vom Endnutzer entfernt un
+ d ausgetauscht werden können; LMT-Batterien von einer unabhängigen Fachk
+ raft (Art. 11).\n\nHersteller von Produkten\, die Geräte- oder LMT-Batter
+ ien enthalten\n\nhttps://autoregix.com/de/fristen/#batteries-2027-02-18-34
+URL:https://autoregix.com/de/fristen/#batteries-2027-02-18-34
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-02-18-35-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Batterieverordnung (EU) 2023/1542: Batteriepass Pflicht für LMT-Ba
+ tterien\, Industriebatterien über 2 kWh und Elektrofahrzeugbatterien (Art
+ .…
+DESCRIPTION:Batteriepass Pflicht für LMT-Batterien\, Industriebatterien ü
+ ber 2 kWh und Elektrofahrzeugbatterien (Art. 77).\n\nWirtschaftsakteure\, 
+ die diese Batterien in Verkehr bringen\n\nhttps://autoregix.com/de/fristen
+ /#batteries-2027-02-18-35
+URL:https://autoregix.com/de/fristen/#batteries-2027-02-18-35
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrdOmnibus-2027-03-19-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Richtlinie (EU) 2026/470 (vereinfachte Nachhaltigkeitsberichterstat
+ tung): Frist für die Mitgliedstaaten zur Umsetzung der Änderungen der Na
+ …
+DESCRIPTION:Frist für die Mitgliedstaaten zur Umsetzung der Änderungen de
+ r Nachhaltigkeitsberichterstattung durch die Richtlinie (EU) 2026/470 (Art
+ ikel 1 bis 3).\n\nMitgliedstaaten; Unternehmen sollten im nationalen Recht
+  prüfen\, ob die Befreiung der ersten Welle für 2025 und 2026 gilt\n\nht
+ tps://autoregix.com/de/fristen/#csrdOmnibus-2027-03-19-0
+URL:https://autoregix.com/de/fristen/#csrdOmnibus-2027-03-19-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gdprProcedure-2027-04-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:DSGVO-Verfahrensverordnung (EU) 2025/2518: Die Verordnung (EU) 2025
+ /2518 über Verfahrensregeln für die grenzüberschreitende Durchsetzung d
+ e…
+DESCRIPTION:Die Verordnung (EU) 2025/2518 über Verfahrensregeln für die g
+ renzüberschreitende Durchsetzung der DSGVO gilt.\n\nAufsichtsbehörden\, 
+ Beschwerdeführer und Unternehmen\, gegen die grenzüberschreitend ermitte
+ lt wird\n\nVeröffentlicht am 12. Dezember 2025\, in Kraft seit dem 1. Jan
+ uar 2026.\n\nhttps://autoregix.com/de/fristen/#gdprProcedure-2027-04-02-0
+URL:https://autoregix.com/de/fristen/#gdprProcedure-2027-04-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:payTransparency-2027-06-07-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Entgelttransparenzrichtlinie (EU) 2023/970: Erster Bericht über da
+ s geschlechtsspezifische Entgeltgefälle fällig\, für das Jahr 2026.
+DESCRIPTION:Erster Bericht über das geschlechtsspezifische Entgeltgefälle
+  fällig\, für das Jahr 2026.\n\nArbeitgeber mit 150 oder mehr Arbeitnehm
+ ern\n\nDanach jährlich ab 250 Arbeitnehmern\, alle drei Jahre bei 150 bis
+  249 Arbeitnehmern. Hängt von der nationalen Umsetzung ab.\n\nhttps://aut
+ oregix.com/de/fristen/#payTransparency-2027-06-07-0
+URL:https://autoregix.com/de/fristen/#payTransparency-2027-06-07-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:accessibilityAct-2027-06-28-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Europäischer Rechtsakt zur Barrierefreiheit\, Richtlinie (EU) 2019
+ /882: Spätester Termin\, zu dem die EU-Länder die Barrierefreiheitsanfor
+ der…
+DESCRIPTION:Spätester Termin\, zu dem die EU-Länder die Barrierefreiheits
+ anforderungen für die Beantwortung von Notrufen an die Nummer 112 anwende
+ n müssen.\n\nNotrufabfragestellen in den EU-Ländern.\n\nArtikel 31 Absat
+ z 3.\n\nhttps://autoregix.com/de/fristen/#accessibilityAct-2027-06-28-0
+URL:https://autoregix.com/de/fristen/#accessibilityAct-2027-06-28-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eudr-2027-06-30-37-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Entwaldungsverordnung (EU) 2023/1115: Die Pflichten gelten für nat
+ ürliche Personen sowie Kleinst- und Kleinunternehmen\, die bis 31. Dezemb
+ e… [Verschoben]
+DESCRIPTION:Die Pflichten gelten für natürliche Personen sowie Kleinst- u
+ nd Kleinunternehmen\, die bis 31. Dezember 2024 als solche niedergelassen 
+ waren (nicht für Produkte\, die schon unter die Holzhandelsverordnung fal
+ len).\n\nKleinst- und Kleinmarktteilnehmer\n\nZuvor 30. Juni 2025\, dann 3
+ 0. Juni 2026. Die Verordnung 2025/2650 beschränkt zudem Sorgfaltserkläru
+ ngen auf den Erstinverkehrbringer\, führt eine einmalige vereinfachte Erk
+ lärung für Kleinst- und Kleinprimärerzeuger ein und streicht Druckerzeu
+ gnisse.\n\nhttps://autoregix.com/de/fristen/#eudr-2027-06-30-37
+URL:https://autoregix.com/de/fristen/#eudr-2027-06-30-37
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrdOmnibus-2027-07-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Richtlinie (EU) 2026/470 (vereinfachte Nachhaltigkeitsberichterstat
+ tung): Frist für die Kommission zum Erlass von Standards für die Prüfun
+ g…
+DESCRIPTION:Frist für die Kommission zum Erlass von Standards für die Pr
+ üfung von Nachhaltigkeitsberichten mit begrenzter Prüfungssicherheit; de
+ r geplante Übergang zur hinreichenden Prüfungssicherheit wurde gestriche
+ n.\n\nAbschlussprüfer und Unternehmen\, die nach der CSRD berichten\n\nKo
+ nsultation der Kommission vom 12. November 2026 bis zum 18. Januar 2027.\n
+ \nhttps://autoregix.com/de/fristen/#csrdOmnibus-2027-07-01-0
+URL:https://autoregix.com/de/fristen/#csrdOmnibus-2027-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2027-07-26-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Lieferkettenrichtlinie (EU) 2024/1760 (CSDDD): Frist für die allge
+ meinen Leitlinien der Kommission zu den Sorgfaltspflichten und für ihre L
+ …
+DESCRIPTION:Frist für die allgemeinen Leitlinien der Kommission zu den Sor
+ gfaltspflichten und für ihre Leitlinien zu freiwilligen Mustervertragskla
+ useln.\n\nUnternehmen im Anwendungsbereich der CSDDD und ihre Geschäftspa
+ rtner\n\nTermine festgelegt durch die Richtlinie (EU) 2026/470 (Artikel 18
+  und Artikel 19 Absatz 3 CSDDD).\n\nhttps://autoregix.com/de/fristen/#csdd
+ d-2027-07-26-0
+URL:https://autoregix.com/de/fristen/#csddd-2027-07-26-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiAct-2027-08-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:KI-Verordnung (EU) 2024/1689: KI-Modelle mit allgemeinem Verwendung
+ szweck\, die vor dem 2. August 2025 in Verkehr gebracht wurden\, müssen d
+ i…
+DESCRIPTION:KI-Modelle mit allgemeinem Verwendungszweck\, die vor dem 2. Au
+ gust 2025 in Verkehr gebracht wurden\, müssen die Anforderungen erfüllen
+  (Artikel 111 Absatz 3).\n\nAnbieter von KI-Modellen mit allgemeinem Verwe
+ ndungszweck\n\nhttps://autoregix.com/de/fristen/#aiAct-2027-08-02-0
+URL:https://autoregix.com/de/fristen/#aiAct-2027-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiOmnibus-2027-08-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Verordnung (EU) 2026/1744 (Digitaler Omnibus zur KI): Jeder Mitglie
+ dstaat muss mindestens ein KI-Reallabor in Betrieb haben; die Kommission
+ …
+DESCRIPTION:Jeder Mitgliedstaat muss mindestens ein KI-Reallabor in Betrieb
+  haben; die Kommission muss delegierte Rechtsakte erlassen\, die doppelte 
+ Anforderungen für Produkte nach Anhang I Abschnitt A begrenzen.\n\nMitgli
+ edstaaten; Kommission\n\nFrist für die Reallabore vom 2. August 2026 vers
+ choben.\n\nhttps://autoregix.com/de/fristen/#aiOmnibus-2027-08-02-0
+URL:https://autoregix.com/de/fristen/#aiOmnibus-2027-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2027-08-18-38-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Batterieverordnung (EU) 2023/1542: Die Sorgfaltspflichten für Batt
+ erien beginnen (Art. 48 bis 52). [Verschoben]
+DESCRIPTION:Die Sorgfaltspflichten für Batterien beginnen (Art. 48 bis 52)
+ .\n\nWirtschaftsakteure\, die Batterien in Verkehr bringen\, mit einem Net
+ toumsatz von 40 Mio. EUR oder mehr\n\nDurch die Verordnung (EU) 2025/1561 
+ um zwei Jahre vom 18. August 2025 verschoben. Frist für die Kommissionsle
+ itlinien auf den 26. Juli 2026 verlegt.\n\nhttps://autoregix.com/de/friste
+ n/#batteries-2027-08-18-38
+URL:https://autoregix.com/de/fristen/#batteries-2027-08-18-38
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dataAct-2027-09-12-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Datenverordnung (EU) 2023/2854 (Data Act): Die Regeln über missbr
+ äuchliche Klauseln (Kapitel IV) erfassen nun auch Verträge\, die am oder
+  vo…
+DESCRIPTION:Die Regeln über missbräuchliche Klauseln (Kapitel IV) erfasse
+ n nun auch Verträge\, die am oder vor dem 12. September 2025 geschlossen 
+ wurden und unbefristet sind oder mindestens bis zum 11. Januar 2034 laufen
+ .\n\nUnternehmen mit langfristigen Datenverträgen\n\nhttps://autoregix.co
+ m/de/fristen/#dataAct-2027-09-12-0
+URL:https://autoregix.com/de/fristen/#dataAct-2027-09-12-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:customsReform-2027-09-21-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Neuer Zollkodex der Union und EU-Zollbehörde\, Verordnung (EU) 202
+ 6/2108: Der neue Zollkodex der Union gilt allgemein und ersetzt die Verord
+ …
+DESCRIPTION:Der neue Zollkodex der Union gilt allgemein und ersetzt die Ver
+ ordnung (EU) Nr. 952/2013.\n\nAlle Einführer\, Ausführer und Zollvertret
+ er\n\nIn Kraft seit dem 20. September 2026; die EU-Zollbehörde (Sitz Lill
+ e) ist ab diesem Datum errichtet.\n\nhttps://autoregix.com/de/fristen/#cus
+ tomsReform-2027-09-21-0
+URL:https://autoregix.com/de/fristen/#customsReform-2027-09-21-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2027-09-30-39-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:CBAM-Verordnung (EU) 2023/956: Erste jährliche CBAM-Erklärung und
+  Abgabe der Zertifikate für die Einfuhren des Jahres 2026. [Verschoben]
+DESCRIPTION:Erste jährliche CBAM-Erklärung und Abgabe der Zertifikate fü
+ r die Einfuhren des Jahres 2026.\n\nZugelassene CBAM-Anmelder\n\nUrsprüng
+ liche Frist war der 31. Mai jedes Jahres; durch die Verordnung (EU) 2025/2
+ 083 auf den 30. September verlegt.\n\nhttps://autoregix.com/de/fristen/#cb
+ am-2027-09-30-39
+URL:https://autoregix.com/de/fristen/#cbam-2027-09-30-39
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2027-10-10-40-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Verordnung (EU) 2024/2462 (PFHxA): PFHxA-Verbot in sonstigen Textil
+ ien\, Leder\, Pelzen und Häuten für die breite Öffentlichkeit (nicht Be
+ kle…
+DESCRIPTION:PFHxA-Verbot in sonstigen Textilien\, Leder\, Pelzen und Häute
+ n für die breite Öffentlichkeit (nicht Bekleidung)\, zum Beispiel Heimte
+ xtilien\, Polsterbezüge\, Stoffe für Outdoor-Ausrüstung.\n\nHersteller\
+ , Importeure und Einzelhändler sonstiger Textilien und Lederwaren für Ve
+ rbraucher\n\nGrenzwerte: 25 ppb PFHxA und Salze\, 1000 ppb verwandte Stoff
+ e. Vor diesem Datum in Verkehr gebrachte Erzeugnisse sind nicht erfasst.\n
+ \nhttps://autoregix.com/de/fristen/#pfhxa-2027-10-10-40
+URL:https://autoregix.com/de/fristen/#pfhxa-2027-10-10-40
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nis2-2027-10-17-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:NIS-2-Richtlinie (EU) 2022/2555: Die Kommission muss überprüfen\,
+  wie NIS2 funktioniert\, und dem Parlament und dem Rat Bericht erstatten (
+ Ar…
+DESCRIPTION:Die Kommission muss überprüfen\, wie NIS2 funktioniert\, und 
+ dem Parlament und dem Rat Bericht erstatten (Artikel 40).\n\nEuropäische 
+ Kommission\n\nhttps://autoregix.com/de/fristen/#nis2-2027-10-17-0
+URL:https://autoregix.com/de/fristen/#nis2-2027-10-17-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:parcels-2027-12-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:Verordnung (EU) 2026/382 (Zoll auf Kleinsendungen): Die Kommission 
+ muss bewerten\, ob das IT-System der EU für die Zollerhebung auf Sendunge
+ …
+DESCRIPTION:Die Kommission muss bewerten\, ob das IT-System der EU für die
+  Zollerhebung auf Sendungen im elektronischen Handel bis zum 1. Juli 2028 
+ bereit sein wird\, und kann vorschlagen\, den pauschalen Zoll von 3 EUR zu
+  verlängern.\n\nVerkäufer und Marktplätze außerhalb der EU\, die an Ve
+ rbraucher in der EU versenden\n\nArtikel 3 Absatz 2 der Verordnung (EU) 20
+ 26/382.\n\nhttps://autoregix.com/de/fristen/#parcels-2027-12-01-0
+URL:https://autoregix.com/de/fristen/#parcels-2027-12-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiact-2027-12-02-41-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:KI-Verordnung (EU) 2024/1689: Die Hochrisiko-Pflichten gelten für 
+ eigenständige KI-Systeme nach Anhang III. [Verschoben]
+DESCRIPTION:Die Hochrisiko-Pflichten gelten für eigenständige KI-Systeme 
+ nach Anhang III.\n\nAnbieter und Betreiber von Hochrisiko-KI-Systemen nach
+  Anhang III\n\nVom 2. August 2026 verschoben durch den Digital-Omnibus zu 
+ KI\, Verordnung (EU) 2026/1744\, in Kraft seit dem 27. Juli 2026.\n\nhttps
+ ://autoregix.com/de/fristen/#aiact-2027-12-02-41
+URL:https://autoregix.com/de/fristen/#aiact-2027-12-02-41
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2027-12-11-42-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:Cyberresilienz-Verordnung (EU) 2024/2847: Alle übrigen Pflichten g
+ elten: grundlegende Cybersicherheitsanforderungen\, Konformitätsbewertung
+ \,…
+DESCRIPTION:Alle übrigen Pflichten gelten: grundlegende Cybersicherheitsan
+ forderungen\, Konformitätsbewertung\, CE-Kennzeichnung\, Unterstützungsz
+ eitraum\, Pflichten der Importeure und Händler.\n\nHersteller\, Importeur
+ e und Händler von Produkten mit digitalen Elementen\n\nVor diesem Datum i
+ n Verkehr gebrachte Produkte sind nur erfasst\, wenn sie danach wesentlich
+  geändert werden.\n\nhttps://autoregix.com/de/fristen/#cra-2027-12-11-42
+URL:https://autoregix.com/de/fristen/#cra-2027-12-11-42
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:redcyber-2027-12-11-43-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:Delegierte Verordnung (EU) 2022/30 (Cybersicherheit von Funkanlagen
+ ): Die Delegierte Verordnung 2022/30 wird aufgehoben; die Cyberresilienz
+ …
+DESCRIPTION:Die Delegierte Verordnung 2022/30 wird aufgehoben; die Cyberres
+ ilienz-Verordnung (CRA) übernimmt die Cybersicherheitsanforderungen für 
+ Funkanlagen.\n\nHersteller und Importeure vernetzter Funkanlagen\n\nAufheb
+ ung am 16. Februar 2026 durch die Delegierte Verordnung (EU) 2026/339 besc
+ hlossen.\n\nhttps://autoregix.com/de/fristen/#redcyber-2027-12-11-43
+URL:https://autoregix.com/de/fristen/#redcyber-2027-12-11-43
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:flr-2027-12-14-44-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:Zwangsarbeitsverordnung (EU) 2024/3015: Das Verbot\, in Zwangsarbei
+ t hergestellte Produkte in Verkehr zu bringen\, bereitzustellen oder auszu
+ …
+DESCRIPTION:Das Verbot\, in Zwangsarbeit hergestellte Produkte in Verkehr z
+ u bringen\, bereitzustellen oder auszuführen\, gilt; Behörden können er
+ mitteln und die Rücknahme anordnen.\n\nAlle Wirtschaftsakteure\, jedes Pr
+ odukt\, jede Unternehmensgröße\n\nAuf EUR-Lex kein Änderungsakt gefunde
+ n.\n\nhttps://autoregix.com/de/fristen/#flr-2027-12-14-44
+URL:https://autoregix.com/de/fristen/#flr-2027-12-14-44
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eudr-2027-12-30-45-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:Entwaldungsverordnung (EU) 2023/1115: Die durch die Delegierte Vero
+ rdnung (EU) 2026/2102 in Anhang I neu aufgenommenen Produktlinien werden
+ …
+DESCRIPTION:Die durch die Delegierte Verordnung (EU) 2026/2102 in Anhang I 
+ neu aufgenommenen Produktlinien werden anwendbar.\n\nMarktteilnehmer und H
+ ändler der neu aufgeführten Produkte\n\nDie Vereinfachungsprüfung vom A
+ pril 2026 (veröffentlicht am 4. Mai 2026) ergab\, dass der Basistext nich
+ t neu geöffnet wird; stattdessen wurde der Geltungsbereich durch diesen d
+ elegierten Rechtsakt angepasst.\n\nhttps://autoregix.com/de/fristen/#eudr-
+ 2027-12-30-45
+URL:https://autoregix.com/de/fristen/#eudr-2027-12-30-45
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbam-2028-01-01-46-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:CBAM-Verordnung (EU) 2023/956: Vorgeschlagene Ausweitung des CBAM a
+ uf nachgelagerte stahl- und aluminiumintensive Waren sowie Regeln gegen…
+  [Änderung vorgeschlagen]
+DESCRIPTION:Vorgeschlagene Ausweitung des CBAM auf nachgelagerte stahl- und
+  aluminiumintensive Waren sowie Regeln gegen Umgehung.\n\nImporteure nachg
+ elagerter Produkte wie Maschinenteile\, Haushaltsgeräte\, Werkzeuge\n\nKo
+ mmissionsvorschlag COM(2025) 989 vom Dezember 2025; Mandate von Rat und Pa
+ rlament 2026 angenommen\, Triloge laufen im Herbst 2026. Kein geltendes Re
+ cht.\n\nhttps://autoregix.com/de/fristen/#cbam-2028-01-01-46
+URL:https://autoregix.com/de/fristen/#cbam-2028-01-01-46
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:clp-2028-01-01-47-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:CLP-Verordnung (EG) Nr. 1272/2008: Die verschobenen Regeln der Vero
+ rdnung (EU) 2024/2865 zur Gestaltung von CLP-Etiketten\, zur Frist für di
+ … [Verschoben]
+DESCRIPTION:Die verschobenen Regeln der Verordnung (EU) 2024/2865 zur Gesta
+ ltung von CLP-Etiketten\, zur Frist für die Neukennzeichnung\, zu Werbung
+ \, Fernabsatz und Kennzeichnung an Zapfsäulen gelten ab diesem Datum.\n\n
+ Lieferanten gefährlicher Stoffe und Gemische\, einschl. Verbraucherchemik
+ alien und Online-Händler\n\nDiese Regeln sollten ursprünglich ab dem 1. 
+ Juli 2026 und dem 1. Januar 2027 gelten.\n\nhttps://autoregix.com/de/frist
+ en/#clp-2028-01-01-47
+URL:https://autoregix.com/de/fristen/#clp-2028-01-01-47
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csrd-2028-01-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Richtlinie zur Nachhaltigkeitsberichterstattung (EU) 2022/2464 (CSR
+ D): Geschäftsjahre\, die ab diesem Datum beginnen: Gruppen von außerhalb
+ …
+DESCRIPTION:Geschäftsjahre\, die ab diesem Datum beginnen: Gruppen von au
+ ßerhalb der EU mit mehr als 450 Mio. EUR Nettoumsatzerlösen in der EU un
+ d einem Tochterunternehmen oder einer Zweigniederlassung in der EU über 2
+ 00 Mio. EUR müssen einen Nachhaltigkeitsbericht veröffentlichen\, erstma
+ ls 2029.\n\nTochterunternehmen und Zweigniederlassungen in der EU von Grup
+ pen von außerhalb der EU\n\nTermin seit 2022 unverändert; Schwellenwerte
+  durch die Richtlinie (EU) 2026/470 angehoben\, zuvor 150 Mio. EUR (Gruppe
+ ) und 40 Mio. EUR (Zweigniederlassung). Die Berichtsstandards für diese G
+ ruppen sind noch nicht erlassen.\n\nhttps://autoregix.com/de/fristen/#csrd
+ -2028-01-01-0
+URL:https://autoregix.com/de/fristen/#csrd-2028-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2028-02-12-48-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280212
+DTEND;VALUE=DATE:20280213
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Bei Verkaufsverpackungen
+  muss der Leerraum auf das notwendige Mindestmaß verringert sein (Art. 2
+ …
+DESCRIPTION:Bei Verkaufsverpackungen muss der Leerraum auf das notwendige M
+ indestmaß verringert sein (Art. 24 Abs. 4); Take-away-Anbieter müssen ei
+ ne wiederverwendbare Verpackung als Option anbieten (Art. 33).\n\nAbfülle
+ r von Verkaufsverpackungen; HORECA-Take-away-Anbieter (Kleinstunternehmen 
+ von Art. 33 ausgenommen)\n\nhttps://autoregix.com/de/fristen/#ppwr-2028-02
+ -12-48
+URL:https://autoregix.com/de/fristen/#ppwr-2028-02-12-48
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wfdtextiles-2028-04-17-49-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Richtlinie (EU) 2025/1892 (Textil- und Lebensmittelabfälle): Die M
+ itgliedstaaten müssen EPR-Systeme für Textilien\, textilverwandte Produk
+ te…
+DESCRIPTION:Die Mitgliedstaaten müssen EPR-Systeme für Textilien\, textil
+ verwandte Produkte und Schuhe nach Anhang IVc eingerichtet haben.\n\nHerst
+ eller\, einschl. Fernabsatzhändler\, von Bekleidung\, Heimtextilien\, Sch
+ uhen; Online-Plattformen\n\nDie Gebühren sind ökologisch zu staffeln; He
+ rsteller ohne Niederlassung in einem Mitgliedstaat benötigen dort einen B
+ evollmächtigten.\n\nhttps://autoregix.com/de/fristen/#wfdtextiles-2028-04
+ -17-49
+URL:https://autoregix.com/de/fristen/#wfdtextiles-2028-04-17-49
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cra-2028-06-11-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280611
+DTEND;VALUE=DATE:20280612
+SUMMARY:Cyberresilienz-Verordnung (EU) 2024/2847: EU-Baumusterprüfbeschein
+ igungen zur Cybersicherheit\, die nach anderen Produktvorschriften ausgest
+ …
+DESCRIPTION:EU-Baumusterprüfbescheinigungen zur Cybersicherheit\, die nach
+  anderen Produktvorschriften ausgestellt wurden\, bleiben längstens bis z
+ u diesem Datum gültig (Artikel 69 Absatz 1).\n\nHersteller\, die solche B
+ escheinigungen besitzen\n\nhttps://autoregix.com/de/fristen/#cra-2028-06-1
+ 1-0
+URL:https://autoregix.com/de/fristen/#cra-2028-06-11-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2028-07-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Richtlinie zur Mehrwertsteuer im digitalen Zeitalter (EU) 2025/516:
+  Einzige Mehrwertsteuerregistrierung: Der One-Stop-Shop in der EU-Regelu
+ …
+DESCRIPTION:Einzige Mehrwertsteuerregistrierung: Der One-Stop-Shop in der E
+ U-Regelung erfasst mehr Lieferungen von Gegenständen\, eine neue Regelung
+  erfasst das Verbringen eigener Gegenstände\, und das Reverse-Charge-Verf
+ ahren wird verpflichtend\, wenn der Lieferer im Land der Mehrwertsteuer we
+ der ansässig noch registriert ist.\n\nUnternehmen\, die in EU-Ländern ve
+ rkaufen oder Lagerbestand halten\, in denen sie nicht ansässig sind\, ein
+ schließlich Verkäufern außerhalb der EU\n\nArtikel 3 der Richtlinie (EU
+ ) 2025/516 (Artikel 194\, 369b\, 369xa bis 369xk der Mehrwertsteuersystemr
+ ichtlinie).\n\nhttps://autoregix.com/de/fristen/#vidaDirective-2028-07-01-
+ 0
+URL:https://autoregix.com/de/fristen/#vidaDirective-2028-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2028-07-01-1-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Richtlinie zur Mehrwertsteuer im digitalen Zeitalter (EU) 2025/516:
+  Plattformen\, die die kurzfristige Vermietung von Unterkünften oder die
+ …
+DESCRIPTION:Plattformen\, die die kurzfristige Vermietung von Unterkünften
+  oder die Personenbeförderung auf der Straße vermitteln\, werden für di
+ e Mehrwertsteuer zum fiktiven Leistungserbringer\, es sei denn\, der Anbie
+ ter teilt seine Umsatzsteuer-Identifikationsnummer mit und erklärt\, dass
+  er Mehrwertsteuer berechnet.\n\nUnterkunfts- und Fahrdienstplattformen un
+ d die Anbieter\, die sie nutzen\n\nArtikel 28a. Ein EU-Land darf dies spä
+ testens ab dem 1. Januar 2030 anwenden.\n\nhttps://autoregix.com/de/friste
+ n/#vidaDirective-2028-07-01-1
+URL:https://autoregix.com/de/fristen/#vidaDirective-2028-07-01-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:importVat-2028-07-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Richtlinie (EU) 2025/1539 zu Einfuhrumsatzsteuer und IOSS: Ein Verk
+ äufer oder Marktplatz\, der IOSS-fähige Verkäufe tätigt\, ohne den IOS
+ S zu…
+DESCRIPTION:Ein Verkäufer oder Marktplatz\, der IOSS-fähige Verkäufe tä
+ tigt\, ohne den IOSS zu nutzen\, schuldet die Einfuhrumsatzsteuer in jedem
+  Bestimmungsland und braucht einen Steuervertreter\, wenn er in einem Land
+  ohne Amtshilfeabkommen ansässig ist.\n\nVerkäufer und Marktplätze auß
+ erhalb der EU\, die Sendungen bis 150 EUR an Verbraucher in der EU versend
+ en\n\nRichtlinie (EU) 2025/1539\, neuer Artikel 201 der Mehrwertsteuersyst
+ emrichtlinie. Die Sonderregelungen für die Einfuhrumsatzsteuer (Artikel 3
+ 69y bis 369zb) werden zum selben Datum gestrichen.\n\nhttps://autoregix.co
+ m/de/fristen/#importVat-2028-07-01-0
+URL:https://autoregix.com/de/fristen/#importVat-2028-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:customsReform-2028-07-01-1-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Neuer Zollkodex der Union und EU-Zollbehörde\, Verordnung (EU) 202
+ 6/2108: Verkäufer und Plattformen werden bei Fernverkäufen zum Einführe
+ r\,…
+DESCRIPTION:Verkäufer und Plattformen werden bei Fernverkäufen zum Einfü
+ hrer\, schulden den Zoll und die Bearbeitungsgebühr und müssen ihre Date
+ n über die EU-Zolldatenplattform bereitstellen; der pauschale Zoll von 3 
+ EUR soll enden.\n\nVerkäufer außerhalb der EU\, Marktplätze\, IOSS-Inha
+ ber\n\nVerordnung (EU) 2026/2108\, Artikel 285 Absatz 2 und Artikel 287 Ab
+ satz 5; Verordnung (EU) 2026/382\, Artikel 2. Zum selben Datum beginnt ein
+ e niedrigere Bearbeitungsgebühr für Waren aus einem Zolllager für Fernv
+ erkäufe; ihre Höhe ist noch nicht festgelegt.\n\nhttps://autoregix.com/d
+ e/fristen/#customsReform-2028-07-01-1
+URL:https://autoregix.com/de/fristen/#customsReform-2028-07-01-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vatDirective-2028-07-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Mehrwertsteuersystemrichtlinie 2006/112/EG: Die Grenze von 150 EUR 
+ würde für den IOSS und für die Regel über Marktplätze als fiktive Lie
+ fer… [Änderung vorgeschlagen]
+DESCRIPTION:Die Grenze von 150 EUR würde für den IOSS und für die Regel 
+ über Marktplätze als fiktive Lieferer bei eingeführten Waren gestrichen
+ \, sodass beide Fernverkäufe eingeführter Waren jedes Werts erfassen.\n\
+ nVerkäufer und Marktplätze außerhalb der EU\n\nAllgemeine Ausrichtung d
+ es Rates vom 9. November 2026 (Dokument 15480/26\, Dossier 2023/0158 (CNS)
+ ). Das Europäische Parlament muss vor der Annahme erneut angehört werden
+ . Der Beginn hängt davon ab\, dass die EU-Zolldatenplattform in Betrieb i
+ st.\n\nhttps://autoregix.com/de/fristen/#vatDirective-2028-07-01-0
+URL:https://autoregix.com/de/fristen/#vatDirective-2028-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2028-07-26-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Lieferkettenrichtlinie (EU) 2024/1760 (CSDDD): Frist für die Mitgl
+ iedstaaten\, nationale Gesetze zur Umsetzung der CSDDD zu erlassen und zu
+ … [Verschoben]
+DESCRIPTION:Frist für die Mitgliedstaaten\, nationale Gesetze zur Umsetzun
+ g der CSDDD zu erlassen und zu veröffentlichen.\n\nMitgliedstaaten\n\nWar
+  der 26. Juli 2026\, durch die Richtlinie (EU) 2025/794 auf den 26. Juli 2
+ 027 und durch die Richtlinie (EU) 2026/470 auf den 26. Juli 2028 verschobe
+ n.\n\nhttps://autoregix.com/de/fristen/#csddd-2028-07-26-0
+URL:https://autoregix.com/de/fristen/#csddd-2028-07-26-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiact-2028-08-02-50-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280802
+DTEND;VALUE=DATE:20280803
+SUMMARY:KI-Verordnung (EU) 2024/1689: Die Hochrisiko-Pflichten gelten für 
+ KI\, die ein Produkt oder Sicherheitsbauteil nach den Harmonisierungsrecht
+ … [Verschoben]
+DESCRIPTION:Die Hochrisiko-Pflichten gelten für KI\, die ein Produkt oder 
+ Sicherheitsbauteil nach den Harmonisierungsrechtsvorschriften in Anhang I 
+ ist (Maschinen\, Spielzeug\, Funkanlagen\, Medizinprodukte\, Aufzüge und 
+ andere).\n\nHersteller regulierter Produkte mit KI-Sicherheitsbauteilen\n\
+ nDurch die Verordnung (EU) 2026/1744 vom 2. August 2027 verschoben.\n\nhtt
+ ps://autoregix.com/de/fristen/#aiact-2028-08-02-50
+URL:https://autoregix.com/de/fristen/#aiact-2028-08-02-50
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2028-08-12-51-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280812
+DTEND;VALUE=DATE:20280813
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Harmonisierte Kennzeichn
+ ung der Materialzusammensetzung auf Verpackungen (Art. 12 Abs. 1); recht
+ … [Verschoben]
+DESCRIPTION:Harmonisierte Kennzeichnung der Materialzusammensetzung auf Ver
+ packungen (Art. 12 Abs. 1); rechtlicher Stichtag ist der 12. August 2028 o
+ der 24 Monate nach Inkrafttreten der Durchführungsrechtsakte zur Kennzeic
+ hnung\, je nachdem\, was später ist.\n\nErzeuger und Importeure von Verpa
+ ckungen (nicht Transportverpackungen\, außer im E-Commerce)\n\nDie Kommis
+ sion hat die Frist vom 12. August 2026 für die Kennzeichnungsrechtsakte v
+ ersäumt\, daher beginnt die Pflicht wahrscheinlich später. Ein offiziell
+ es neues Datum fehlt.\n\nhttps://autoregix.com/de/fristen/#ppwr-2028-08-12
+ -51
+URL:https://autoregix.com/de/fristen/#ppwr-2028-08-12-51
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:batteries-2028-08-18-52-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20280818
+DTEND;VALUE=DATE:20280819
+SUMMARY:Batterieverordnung (EU) 2023/1542: Erklärung zum CO2-Fußabdruck f
+ ür LMT-Batterien (oder 18 Monate nach den Rechtsakten zur Methodik); Unte
+ r…
+DESCRIPTION:Erklärung zum CO2-Fußabdruck für LMT-Batterien (oder 18 Mona
+ te nach den Rechtsakten zur Methodik); Unterlagen zum Rezyklatgehalt für 
+ Industriebatterien über 2 kWh\, Elektrofahrzeug- und SLI-Batterien (Art. 
+ 8 Abs. 1).\n\nHersteller von LMT-\, Elektrofahrzeug-\, SLI- und Industrieb
+ atterien\n\nFür beide gilt das jeweils spätere Datum; sie hängen an noc
+ h nicht erlassenen delegierten Rechtsakten.\n\nhttps://autoregix.com/de/fr
+ isten/#batteries-2028-08-18-52
+URL:https://autoregix.com/de/fristen/#batteries-2028-08-18-52
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:socialSecurityRevision-2028-11-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:Überarbeitung der Koordinierung der Systeme der sozialen Sicherhei
+ t\, Verordnung (EU) 2026/2359: Arbeitgeber müssen die A1-Bescheinigung be
+ a…
+DESCRIPTION:Arbeitgeber müssen die A1-Bescheinigung beantragen\, bevor sie
+  einen Arbeitnehmer in ein anderes Land schicken. Entscheidungen für eine
+  Tätigkeit in zwei oder mehr Ländern sind auf 24 Monate begrenzt.\n\nArb
+ eitgeber\, die Arbeitnehmer ins Ausland schicken oder Personal haben\, das
+  in zwei oder mehr Ländern arbeitet\n\nAusgenommen sind Geschäftsreisen 
+ und außerhalb des Baugewerbes auch Tätigkeiten von bis zu drei aufeinand
+ erfolgenden Arbeitstagen innerhalb von 30 Tagen.\n\nhttps://autoregix.com/
+ de/fristen/#socialSecurityRevision-2028-11-02-0
+URL:https://autoregix.com/de/fristen/#socialSecurityRevision-2028-11-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2029-02-12-55-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290212
+DTEND;VALUE=DATE:20290213
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Wiederverwendbare Verpac
+ kungen brauchen eine Kennzeichnung zur Wiederverwendbarkeit (Art. 12 Abs
+ … [Verschoben]
+DESCRIPTION:Wiederverwendbare Verpackungen brauchen eine Kennzeichnung zur 
+ Wiederverwendbarkeit (Art. 12 Abs. 2); oder 30 Monate nach dem Durchführu
+ ngsrechtsakt zur Kennzeichnung\, je nachdem\, was später ist. Art. 67 Abs
+ . 5 gilt auch.\n\nErzeuger wiederverwendbarer Verpackungen\n\nHängt am se
+ lben verzögerten Durchführungsrechtsakt zur Kennzeichnung; der tatsächl
+ iche Beginn dürfte daher nach dem 12. Februar 2029 liegen.\n\nhttps://aut
+ oregix.com/de/fristen/#ppwr-2029-02-12-55
+URL:https://autoregix.com/de/fristen/#ppwr-2029-02-12-55
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wfdtextiles-2029-04-17-56-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290417
+DTEND;VALUE=DATE:20290418
+SUMMARY:Richtlinie (EU) 2025/1892 (Textil- und Lebensmittelabfälle): Die E
+ PR-Pflichten für Textilien werden auf Kleinstunternehmen ausgeweitet (wen
+ …
+DESCRIPTION:Die EPR-Pflichten für Textilien werden auf Kleinstunternehmen 
+ ausgeweitet (weniger als 10 Beschäftigte und bis zu 2 Mio. EUR Umsatz).\n
+ \nKleinstunternehmen\, die Textilien und Schuhe herstellen\n\nhttps://auto
+ regix.com/de/fristen/#wfdtextiles-2029-04-17-56
+URL:https://autoregix.com/de/fristen/#wfdtextiles-2029-04-17-56
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2029-07-26-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290726
+DTEND;VALUE=DATE:20290727
+SUMMARY:Lieferkettenrichtlinie (EU) 2024/1760 (CSDDD): Die Sorgfaltspflicht
+ en gelten in einem Schritt für alle erfassten Unternehmen. [Verschoben]
+DESCRIPTION:Die Sorgfaltspflichten gelten in einem Schritt für alle erfass
+ ten Unternehmen.\n\nUnternehmen in der EU mit mehr als 5.000 Beschäftigte
+ n und 1\,5 Mrd. EUR weltweiten Nettoumsatzerlösen; Unternehmen von außer
+ halb der EU mit mehr als 1\,5 Mrd. EUR Nettoumsatzerlösen in der EU; gro
+ ße Franchisegeber\n\nDer gestaffelte Beginn (26. Juli 2027\, später 26. 
+ Juli 2028\, für die größten Unternehmen) wurde durch die Richtlinie (EU
+ ) 2026/470 gestrichen.\n\nhttps://autoregix.com/de/fristen/#csddd-2029-07-
+ 26-0
+URL:https://autoregix.com/de/fristen/#csddd-2029-07-26-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:detergents-2029-09-23-57-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20290923
+DTEND;VALUE=DATE:20290924
+SUMMARY:Detergenzienverordnung (EU) 2026/405: Die neue Detergenzienverordnu
+ ng gilt\, mit digitalem Produktpass und digitaler Kennzeichnung; die Vero
+ …
+DESCRIPTION:Die neue Detergenzienverordnung gilt\, mit digitalem Produktpas
+ s und digitaler Kennzeichnung; die Verordnung (EG) Nr. 648/2004 wird aufge
+ hoben.\n\nHersteller und Importeure von Detergenzien und Tensiden\n\nBest
+ ände\, die den alten Regeln entsprechen und bis 22. September 2030 in Ver
+ kehr gebracht werden\, dürfen bis 23. September 2030 verkauft werden.\n\n
+ https://autoregix.com/de/fristen/#detergents-2029-09-23-57
+URL:https://autoregix.com/de/fristen/#detergents-2029-09-23-57
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pfhxa-2029-10-10-58-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20291010
+DTEND;VALUE=DATE:20291011
+SUMMARY:Verordnung (EU) 2024/2462 (PFHxA): PFHxA-Verbot in Feuerlöschschä
+ umen und Schaumkonzentraten für die Zivilluftfahrt\, einschließlich zivi
+ ler…
+DESCRIPTION:PFHxA-Verbot in Feuerlöschschäumen und Schaumkonzentraten fü
+ r die Zivilluftfahrt\, einschließlich ziviler Flughäfen.\n\nFlughäfen\,
+  Lieferanten von Feuerlöschschäumen für die Luftfahrt\n\nGrenzwerte: 25
+  ppb PFHxA und Salze\, 1000 ppb verwandte Stoffe.\n\nhttps://autoregix.com
+ /de/fristen/#pfhxa-2029-10-10-58
+URL:https://autoregix.com/de/fristen/#pfhxa-2029-10-10-58
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:platformWork-2029-12-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20291202
+DTEND;VALUE=DATE:20291203
+SUMMARY:Richtlinie über Plattformarbeit (EU) 2024/2831: Die Europäische K
+ ommission muss die Richtlinie über Plattformarbeit überprüfen.
+DESCRIPTION:Die Europäische Kommission muss die Richtlinie über Plattform
+ arbeit überprüfen.\n\nDigitale Arbeitsplattformen\n\nhttps://autoregix.c
+ om/de/fristen/#platformWork-2029-12-02-0
+URL:https://autoregix.com/de/fristen/#platformWork-2029-12-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-59-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Alle Verpackungen müsse
+ n recyclingfähig sein (Design-for-Recycling-Stufen A\, B oder C); oder 24
+ …
+DESCRIPTION:Alle Verpackungen müssen recyclingfähig sein (Design-for-Recy
+ cling-Stufen A\, B oder C); oder 24 Monate nach den bis 1. Januar 2028 fä
+ lligen delegierten Rechtsakten\, je nachdem\, was später ist (Art. 6).\n\
+ nErzeuger und Importeure von Verpackungen\n\nStufe C läuft ab 1. Januar 2
+ 038 aus; die Anforderung des Recyclings in großem Maßstab gilt ab 2035.\
+ n\nhttps://autoregix.com/de/fristen/#ppwr-2030-01-01-59
+URL:https://autoregix.com/de/fristen/#ppwr-2030-01-01-59
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-60-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Mindestrezyklatanteil in
+  Kunststoffverpackungen (10 % bis 35 % je nach Art); oder 3 Jahre nach d
+ …
+DESCRIPTION:Mindestrezyklatanteil in Kunststoffverpackungen (10 % bis 35 % 
+ je nach Art); oder 3 Jahre nach dem bis 31. Dezember 2026 fälligen Durchf
+ ührungsrechtsakt zur Berechnung\, je nachdem\, was später eintritt (Art.
+  7).\n\nErzeuger und Importeure von Kunststoffverpackungen\n\nhttps://auto
+ regix.com/de/fristen/#ppwr-2030-01-01-60
+URL:https://autoregix.com/de/fristen/#ppwr-2030-01-01-60
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-61-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Maximales Leerraumverhä
+ ltnis von 50 % für Um-\, Transport- und E-Commerce-Verpackungen; oder 3 J
+ a…
+DESCRIPTION:Maximales Leerraumverhältnis von 50 % für Um-\, Transport- un
+ d E-Commerce-Verpackungen; oder 3 Jahre nach dem bis 12. Februar 2028 fäl
+ ligen Rechtsakt zur Methodik\, je nachdem\, was später eintritt (Art. 24 
+ Abs. 1).\n\nWirtschaftsakteure\, die Um-\, Transport- oder E-Commerce-Verp
+ ackungen befüllen\n\nhttps://autoregix.com/de/fristen/#ppwr-2030-01-01-61
+URL:https://autoregix.com/de/fristen/#ppwr-2030-01-01-61
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-62-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Verbot der Verpackungsfo
+ rmate in Anhang V (z. B. Umverpackungen aus Einwegkunststoff\, Verpackung
+ …
+DESCRIPTION:Verbot der Verpackungsformate in Anhang V (z. B. Umverpackungen
+  aus Einwegkunststoff\, Verpackungen für unter 1\,5 kg frisches Obst und 
+ Gemüse\, HORECA-Einwegverpackungen\, Hotel-Miniaturen\, sehr leichte Trag
+ etaschen).\n\nAlle Wirtschaftsakteure\, die diese Formate in Verkehr bring
+ en\n\nKommissionsleitlinien zu Anhang V sind bis 12. Februar 2027 fällig.
+ \n\nhttps://autoregix.com/de/fristen/#ppwr-2030-01-01-62
+URL:https://autoregix.com/de/fristen/#ppwr-2030-01-01-62
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ppwr-2030-01-01-63-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Verpackungsverordnung (EU) 2025/40 (PPWR): Wiederverwendungsziele b
+ eginnen (Art. 29): 40 % wiederverwendbare Transportverpackungen\, 10 % Um
+ …
+DESCRIPTION:Wiederverwendungsziele beginnen (Art. 29): 40 % wiederverwendba
+ re Transportverpackungen\, 10 % Umverpackungskisten\, 10 % der Getränke i
+ n wiederverwendbaren Verpackungen; nahezu 100 % bei Transporten zwischen e
+ igenen Standorten und B2B im selben Mitgliedstaat.\n\nVerwender von Transp
+ ort- und Umverpackungen; Endvertreiber von Getränken\n\nAusnahmen bestehe
+ n für Kleinstunternehmen\, Kartonagen und mehrere Produktarten.\n\nhttps:
+ //autoregix.com/de/fristen/#ppwr-2030-01-01-63
+URL:https://autoregix.com/de/fristen/#ppwr-2030-01-01-63
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:csddd-2030-01-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Lieferkettenrichtlinie (EU) 2024/1760 (CSDDD): Geschäftsjahre\, di
+ e ab diesem Datum beginnen: Erfasste Unternehmen müssen eine jährliche E
+ rk… [Verschoben]
+DESCRIPTION:Geschäftsjahre\, die ab diesem Datum beginnen: Erfasste Untern
+ ehmen müssen eine jährliche Erklärung zu ihren Sorgfaltspflichten verö
+ ffentlichen (Artikel 16).\n\nUnternehmen im Anwendungsbereich der CSDDD\n\
+ nhttps://autoregix.com/de/fristen/#csddd-2030-01-01-0
+URL:https://autoregix.com/de/fristen/#csddd-2030-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:accessibilityAct-2030-06-28-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300628
+DTEND;VALUE=DATE:20300629
+SUMMARY:Europäischer Rechtsakt zur Barrierefreiheit\, Richtlinie (EU) 2019
+ /882: Ende der Übergangsfrist: Vor dem 28. Juni 2025 vereinbarte Dienstle
+ i…
+DESCRIPTION:Ende der Übergangsfrist: Vor dem 28. Juni 2025 vereinbarte Die
+ nstleistungsverträge können nicht mehr unverändert weiterlaufen\, und D
+ ienstleistungserbringer können sich nicht mehr auf Produkte stützen\, di
+ e vor diesem Tag rechtmäßig eingesetzt wurden.\n\nErbringer erfasster Di
+ enstleistungen.\n\nArtikel 32 Absatz 1. Selbstbedienungsterminals dürfen 
+ bis zu 20 Jahre nach der Ingebrauchnahme betrieben werden\, wenn das EU-La
+ nd dies zulässt (Artikel 32 Absatz 2).\n\nhttps://autoregix.com/de/friste
+ n/#accessibilityAct-2030-06-28-0
+URL:https://autoregix.com/de/fristen/#accessibilityAct-2030-06-28-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2030-07-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Richtlinie zur Mehrwertsteuer im digitalen Zeitalter (EU) 2025/516:
+  Strukturierte E-Rechnungen innerhalb von 10 Tagen und die digitale Meld
+ …
+DESCRIPTION:Strukturierte E-Rechnungen innerhalb von 10 Tagen und die digit
+ ale Meldung jedes Umsatzes werden für Verkäufe zwischen Unternehmen in v
+ erschiedenen EU-Ländern verpflichtend; die Zusammenfassenden Meldungen en
+ tfallen.\n\nAlle für die Mehrwertsteuer registrierten Unternehmen mit gre
+ nzüberschreitenden B2B-Verkäufen oder -Einkäufen in der EU\n\nArtikel 5
+  der Richtlinie (EU) 2025/516. Europäische Norm EN 16931.\n\nhttps://auto
+ regix.com/de/fristen/#vidaDirective-2030-07-01-0
+URL:https://autoregix.com/de/fristen/#vidaDirective-2030-07-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espr-2030-07-19-64-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300719
+DTEND;VALUE=DATE:20300720
+SUMMARY:Ökodesign-Verordnung für nachhaltige Produkte (EU) 2024/1781: Ver
+ nichtungsverbot und Offenlegung unverkaufter Waren gelten nun auch für mi
+ t…
+DESCRIPTION:Vernichtungsverbot und Offenlegung unverkaufter Waren gelten nu
+ n auch für mittlere Unternehmen.\n\nMittlere Unternehmen\n\nhttps://autor
+ egix.com/de/fristen/#espr-2030-07-19-64
+URL:https://autoregix.com/de/fristen/#espr-2030-07-19-64
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:toysnew-2030-08-01-65-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300801
+DTEND;VALUE=DATE:20300802
+SUMMARY:Spielzeugverordnung (EU) 2025/2509: Die Verordnung gilt vollständi
+ g (neue Chemikalienverbote\, digitaler Produktpass); die Richtlinie 2009/4
+ …
+DESCRIPTION:Die Verordnung gilt vollständig (neue Chemikalienverbote\, dig
+ italer Produktpass); die Richtlinie 2009/48/EG wird aufgehoben.\n\nHerstel
+ ler\, Importeure und Händler von Spielzeug\, Online-Marktplätze\n\nSpiel
+ zeug\, das vor diesem Datum nach der Richtlinie in Verkehr gebracht wurde\
+ , darf weiter verkauft werden; alte EG-Baumusterprüfbescheinigungen gelte
+ n bis zum 1. Februar 2031.\n\nhttps://autoregix.com/de/fristen/#toysnew-20
+ 30-08-01-65
+URL:https://autoregix.com/de/fristen/#toysnew-2030-08-01-65
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiAct-2030-08-02-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20300802
+DTEND;VALUE=DATE:20300803
+SUMMARY:KI-Verordnung (EU) 2024/1689: Hochrisiko-KI-Systeme\, die für Beh
+ örden bestimmt sind und in Verkehr gebracht wurden\, bevor die Hochrisiko
+ -Vo…
+DESCRIPTION:Hochrisiko-KI-Systeme\, die für Behörden bestimmt sind und in
+  Verkehr gebracht wurden\, bevor die Hochrisiko-Vorschriften galten\, müs
+ sen die Anforderungen erfüllen (Artikel 111 Absatz 2).\n\nAnbieter und Be
+ treiber von Hochrisiko-KI\, die von Behörden genutzt wird\n\nhttps://auto
+ regix.com/de/fristen/#aiAct-2030-08-02-0
+URL:https://autoregix.com/de/fristen/#aiAct-2030-08-02-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:payTransparency-2031-06-07-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20310607
+DTEND;VALUE=DATE:20310608
+SUMMARY:Entgelttransparenzrichtlinie (EU) 2023/970: Erster Bericht über da
+ s geschlechtsspezifische Entgeltgefälle fällig\, für das Jahr 2030.
+DESCRIPTION:Erster Bericht über das geschlechtsspezifische Entgeltgefälle
+  fällig\, für das Jahr 2030.\n\nArbeitgeber mit 100 bis 149 Arbeitnehmer
+ n\n\nDanach alle drei Jahre.\n\nhttps://autoregix.com/de/fristen/#payTrans
+ parency-2031-06-07-0
+URL:https://autoregix.com/de/fristen/#payTransparency-2031-06-07-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gdpr-2031-12-27-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20311227
+DTEND;VALUE=DATE:20311228
+SUMMARY:Datenschutz-Grundverordnung (EU) 2016/679: Die Angemessenheitsbesch
+ lüsse für das Vereinigte Königreich laufen aus\, sofern sie nicht verl
+ äng…
+DESCRIPTION:Die Angemessenheitsbeschlüsse für das Vereinigte Königreich 
+ laufen aus\, sofern sie nicht verlängert werden.\n\nUnternehmen\, die per
+ sonenbezogene Daten aus der EU in das Vereinigte Königreich übermitteln\
+ n\nhttps://autoregix.com/de/fristen/#gdpr-2031-12-27-0
+URL:https://autoregix.com/de/fristen/#gdpr-2031-12-27-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:customsReform-2034-03-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20340301
+DTEND;VALUE=DATE:20340302
+SUMMARY:Neuer Zollkodex der Union und EU-Zollbehörde\, Verordnung (EU) 202
+ 6/2108: Die EU-Zolldatenplattform wird für alle Einführer\, Ausführer u
+ nd I…
+DESCRIPTION:Die EU-Zolldatenplattform wird für alle Einführer\, Ausführe
+ r und Inhaber des Versandverfahrens verpflichtend; die freiwillige Nutzung
+  beginnt am 1. März 2031.\n\nAlle Einführer und Ausführer\n\nhttps://au
+ toregix.com/de/fristen/#customsReform-2034-03-01-0
+URL:https://autoregix.com/de/fristen/#customsReform-2034-03-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vidaDirective-2035-01-01-0-de@autoregix.com
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+SUMMARY:Richtlinie zur Mehrwertsteuer im digitalen Zeitalter (EU) 2025/516:
+  EU-Länder\, die vor 2024 ein inländisches Echtzeit-Meldesystem hatten\,
+  m…
+DESCRIPTION:EU-Länder\, die vor 2024 ein inländisches Echtzeit-Meldesyste
+ m hatten\, müssen ihre inländische E-Rechnung und Meldung an die EU-Rege
+ ln angepasst haben.\n\nUnternehmen in Ländern mit bestehenden inländisch
+ en Echtzeit-Meldesystemen\n\nArtikel 6 Absatz 5 der Richtlinie (EU) 2025/5
+ 16. Die Kommission berichtet bis zum 31. März 2033 und kann ein späteres
+  Datum vorschlagen.\n\nhttps://autoregix.com/de/fristen/#vidaDirective-203
+ 5-01-01-0
+URL:https://autoregix.com/de/fristen/#vidaDirective-2035-01-01-0
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
